@@ -1,0 +1,41 @@
+Senior Data Scientist
+DataDriven Analytics
+
+Job Description:
+We are looking for an experienced Senior Data Scientist to join our analytics team and drive data-driven decision making across the organization. The successful candidate will work on challenging problems involving machine learning, statistical modeling, and big data analytics.
+
+Key Responsibilities:
+• Develop and deploy machine learning models for predictive analytics
+• Conduct statistical analysis and hypothesis testing
+• Build data pipelines and automated reporting systems
+• Create data visualizations and dashboards for stakeholders
+• Collaborate with product and engineering teams to implement data solutions
+• Mentor junior data scientists and analysts
+• Present findings and recommendations to executive leadership
+
+Required Skills:
+• Master's degree in Data Science, Statistics, or related field
+• 4+ years of experience in data science and machine learning
+• Expert-level proficiency in Python and SQL
+• Experience with ML frameworks (TensorFlow, PyTorch, Scikit-learn)
+• Strong statistical analysis and modeling skills
+• Experience with big data technologies (Spark, Hadoop)
+• Proficiency in data visualization tools (Tableau, Power BI)
+• Experience with cloud platforms (AWS, GCP, Azure)
+
+Preferred Skills:
+• PhD in quantitative field
+• Experience with deep learning and neural networks
+• Knowledge of MLOps and model deployment
+• Experience with A/B testing and experimentation
+• Familiarity with time series analysis and forecasting
+• Experience in specific domains (finance, healthcare, e-commerce)
+• Strong communication and presentation skills
+
+Technical Requirements:
+• Programming: Python, R, SQL, Scala
+• Machine Learning: Supervised/unsupervised learning, ensemble methods
+• Data Processing: Pandas, NumPy, Spark, Kafka
+• Visualization: Matplotlib, Seaborn, Plotly, D3.js
+• Cloud: AWS SageMaker, Google AI Platform, Azure ML
+• Databases: PostgreSQL, MongoDB, Snowflake, BigQuery

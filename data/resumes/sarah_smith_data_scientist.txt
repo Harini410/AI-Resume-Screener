@@ -1,0 +1,51 @@
+SARAH SMITH
+Data Scientist
+Email: sarah.smith@email.com | Phone: (555) 987-6543 | GitHub: github.com/sarahsmith
+
+SUMMARY
+Data Scientist with 4+ years of experience in machine learning, statistical analysis, and data visualization. Expertise in Python, R, and SQL with strong background in predictive modeling and business intelligence. Proven ability to translate complex data insights into actionable business strategies.
+
+TECHNICAL SKILLS
+• Programming: Python, R, SQL, MATLAB, Scala
+• Machine Learning: Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost
+• Data Analysis: Pandas, NumPy, SciPy, Statsmodels
+• Visualization: Matplotlib, Seaborn, Plotly, Tableau, Power BI
+• Big Data: Spark, Hadoop, Hive, Kafka
+• Cloud: AWS, Google Cloud Platform, Azure
+• Databases: PostgreSQL, MongoDB, Snowflake, BigQuery
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Scientist | DataTech Solutions | 2022 - Present
+• Developed predictive models improving customer retention by 30%
+• Built automated ML pipelines processing 1M+ records daily
+• Created interactive dashboards for executive reporting
+• Led cross-functional team of 4 analysts and engineers
+
+Data Scientist | Analytics Corp | 2020 - 2022
+• Implemented recommendation systems increasing user engagement by 25%
+• Performed A/B testing and statistical analysis for product features
+• Developed time series forecasting models for demand planning
+• Collaborated with engineering team to deploy models in production
+
+Junior Data Analyst | Research Institute | 2019 - 2020
+• Conducted exploratory data analysis on large healthcare datasets
+• Created data visualizations and reports for stakeholders
+• Assisted in survey design and statistical methodology
+
+EDUCATION
+Master of Science in Data Science
+Data Science University | 2017 - 2019
+
+Bachelor of Science in Statistics
+Mathematics College | 2013 - 2017
+
+CERTIFICATIONS
+• AWS Certified Machine Learning - Specialty
+• Google Cloud Professional Data Engineer
+• Tableau Desktop Specialist
+
+PROJECTS
+• Customer Churn Prediction: Built ML model with 92% accuracy using ensemble methods
+• Sales Forecasting System: Developed time series models for retail chain
+• NLP Sentiment Analysis: Created text classification system for social media monitoring
