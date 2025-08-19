@@ -77,11 +77,6 @@ By default, the app will run at: `http://localhost:3000/`
 
 ---
 
-## 📷 Screenshots
-
-*(Add screenshots of your UI and sample results here)*
-
----
 
 ## 📬 Contact Information
 
