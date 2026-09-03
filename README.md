@@ -80,7 +80,7 @@ By default, the app will run at: `http://localhost:3000/`
 
 ## 📬 Contact Information
 
-👩‍💻 **Developed by:** Harini Lakshmanan
+👩‍💻 **Developed by:** Harini L
 
 🌐 **Portfolio:** [https://port-folio-02-p4yp.vercel.app/](https://port-folio-02-p4yp.vercel.app/)
 💼 **LinkedIn:** [https://www.linkedin.com/in/harini-lakshmanan-04](https://www.linkedin.com/in/harini-lakshmanan-04)
