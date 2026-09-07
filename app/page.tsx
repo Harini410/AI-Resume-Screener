@@ -113,15 +113,15 @@ export default function HomePage() {
         <section className="max-w-5xl mx-auto text-center relative pt-8 pb-16">
           <div className="animated-gradient absolute inset-0 rounded-3xl opacity-15 blur-3xl pointer-events-none"></div>
 
-          <div className="inline-flex items-center space-x-2 px-3.5 py-1.5 rounded-full border border-primary/20 bg-primary/5 text-primary text-xs font-semibold mb-6 shadow-sm">
-            <Sparkles className="h-3.5 w-3.5 animate-pulse" />
+          <div className="inline-flex flex-wrap items-center justify-center gap-1.5 sm:gap-2 px-3 sm:px-3.5 py-1.5 rounded-full border border-primary/20 bg-primary/5 text-primary text-xs font-semibold mb-6 shadow-sm max-w-full">
+            <Sparkles className="h-3.5 w-3.5 animate-pulse shrink-0" />
             <span>Autonomous Multi-Agent RAG Pipeline</span>
-            <span className="text-muted-foreground">•</span>
-            <span>Comprehensive Multi-Domain Intelligence</span>
+            <span className="hidden sm:inline text-muted-foreground">•</span>
+            <span className="hidden sm:inline">Comprehensive Multi-Domain Intelligence</span>
           </div>
 
-          <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight mb-6">
-            Precision AI Resume Screening <br />
+          <h1 className="text-3xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight mb-6">
+            Precision AI Resume Screening <br className="hidden sm:inline" />
             <span className="bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent">
               Powered by Multi-Agent RAG
             </span>

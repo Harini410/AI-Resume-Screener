@@ -249,15 +249,15 @@ export default function AnalyzePage() {
       <main className="container mx-auto px-4 py-8">
         <div className="max-w-6xl mx-auto">
           {/* Header */}
-          <div className="text-center mb-8">
-            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/10 text-primary text-xs font-semibold mb-3">
-              <Sparkles className="h-3.5 w-3.5" />
-              <span>Production RAG + Multi-Agent Screening Architecture</span>
+          <div className="text-center mb-6 sm:mb-8 px-2">
+            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/10 text-primary text-[11px] sm:text-xs font-semibold mb-3 max-w-full text-center">
+              <Sparkles className="h-3.5 w-3.5 shrink-0" />
+              <span>Production RAG + Multi-Agent Architecture</span>
             </div>
-            <h1 className="text-4xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent mb-2">
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent mb-2">
               AI Resume Screener & Auditor
             </h1>
-            <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
+            <p className="text-muted-foreground text-sm sm:text-base lg:text-lg max-w-2xl mx-auto">
               Grounded, multi-agent evaluation powered by requirement decomposition, dense vector retrieval, and deterministic citation judge verification.
             </p>
           </div>

@@ -137,31 +137,31 @@ export default function DashboardPage() {
             Showing data for {totalResumes} analyzed resume{totalResumes !== 1 ? "s" : ""}
           </div>
 
-          <div className="flex justify-between items-center mb-8">
+          <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-8">
             <div>
-              <h1 className="text-4xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent mb-2 flex items-center">
-                <BarChart3 className="h-8 w-8 text-primary mr-3" />
-                Resume Dashboard
+              <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent mb-2 flex items-center">
+                <BarChart3 className="h-7 w-7 sm:h-8 sm:w-8 text-primary mr-2.5 sm:mr-3 shrink-0" />
+                <span>Resume Dashboard</span>
               </h1>
-              <p className="text-muted-foreground text-lg">Analytics and insights from all analyzed resumes</p>
+              <p className="text-muted-foreground text-sm sm:text-base lg:text-lg">Analytics and insights from all analyzed resumes</p>
             </div>
-            <div className="flex gap-2">
+            <div className="flex flex-wrap items-center gap-2">
               <Button
                 onClick={exportToCSV}
                 variant="outline"
                 size="sm"
-                className="hover:bg-primary/5 transition-colors duration-300 bg-transparent"
+                className="hover:bg-primary/5 transition-colors duration-300 bg-transparent text-xs sm:text-sm"
               >
-                <Download className="h-4 w-4 mr-2" />
+                <Download className="h-4 w-4 mr-1.5 sm:mr-2" />
                 Export CSV
               </Button>
               <Button
                 onClick={exportData}
                 variant="outline"
                 size="sm"
-                className="hover:bg-accent/5 transition-colors duration-300 bg-transparent"
+                className="hover:bg-accent/5 transition-colors duration-300 bg-transparent text-xs sm:text-sm"
               >
-                <Download className="h-4 w-4 mr-2" />
+                <Download className="h-4 w-4 mr-1.5 sm:mr-2" />
                 Export JSON
               </Button>
             </div>
