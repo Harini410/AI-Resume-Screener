@@ -1,0 +1,14 @@
+{
+  "id": "scenario-05",
+  "name": "Production Site Reliability Engineer",
+  "scenario": "irrelevant_section",
+  "description": "Technical keywords appear strictly in personal hobbies or side interests rather than verified professional production experience.",
+  "jobDescription": "Staff Site Reliability Engineer (SRE)\n\nRequirements:\n- 5+ years supporting mission-critical enterprise production infrastructure in a 24/7 on-call pager rotation\n- Deep expertise in Linux kernel tuning, systemd, cgroups, and eBPF network observability\n- Proven track record establishing and enforcing Service Level Objectives (SLOs) and error budgets\n- Experience managing multi-region Kubernetes clusters with automated failover\n- Incident commander experience leading post-mortem retrospectives for major production outages",
+  "resumeText": "Casey Bell\nGraphic & UI Designer\nEmail: casey.bell@example.com\n\nPROFESSIONAL SUMMARY\nVisual designer with 6 years of expertise designing marketing collaterals, responsive landing pages, and corporate branding systems.\n\nPROFESSIONAL EXPERIENCE\n\nSenior Visual Designer | PixelCraft Studio | 2021 - Present\n- Created vector illustrations, brand guidelines, and Figma prototypes for corporate clients.\n- Collaborated with front-end engineers to deliver clean SVG assets and typography styling.\n- Designed marketing banner ads resulting in a 14% increase in click-through rates.\n\nGraphic Designer | MediaStudio Inc | 2018 - 2021\n- Prepared print layouts and promotional materials for corporate trade shows.\n\nEDUCATION\nBFA in Graphic Design | Design Institute | 2018\n\nHOBBIES & PERSONAL INTERESTS\n- Linux enthusiast: Enjoy flashing custom Linux distributions onto Raspberry Pi 4 for home retro gaming emulation.\n- Kubernetes hobbyist: Deployed a small 2-node k3s test cluster on home homelab to experiment with containerization.\n- Electronics tinkering, 3D printing, and digital photography.",
+  "expected": {
+    "minScore": 0,
+    "maxScore": 35,
+    "expectedDominantStatus": "insufficient_evidence",
+    "requiredSkills": ["Linux kernel", "24/7 on-call", "SLOs", "Kubernetes", "Incident Commander"]
+  }
+}

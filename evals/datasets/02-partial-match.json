@@ -1,0 +1,14 @@
+{
+  "id": "scenario-02",
+  "name": "Full Stack TypeScript Engineer",
+  "scenario": "partial_match",
+  "description": "Candidate with strong frontend and Node.js backend experience, but missing AWS DynamoDB and Terraform infrastructure requirements.",
+  "jobDescription": "Senior Full Stack Engineer needed for our SaaS platform.\n\nRole Requirements:\n- 4+ years of hands-on experience with TypeScript and React in modern web applications\n- Proven experience building backend microservices in Node.js and Express/Fastify\n- Deep hands-on experience with AWS DynamoDB schema modeling, partition keys, and GSIs\n- Infrastructure as Code experience using HashiCorp Terraform for AWS provisioning\n- Experience designing GraphQL schemas and Apollo Federation subgraphs",
+  "resumeText": "Jordan Taylor\nFull Stack Web Developer\nEmail: jtaylor@example.com | Portfolio: jordantaylor.dev\n\nSUMMARY\nExperienced Full Stack Developer with 5 years crafting performant web applications using React, Next.js, and Node.js. Passionate about frontend architecture, responsive UI, and state management.\n\nTECHNICAL SKILLS\nFrontend: React, Next.js, TypeScript, JavaScript, Redux Toolkit, Tailwind CSS, HTML5, CSS3\nBackend: Node.js, Express, REST APIs, PostgreSQL, Prisma ORM\nTools: Git, GitHub, Docker, Jest, Cypress, Vite, Webpack\n\nWORK EXPERIENCE\n\nSenior Frontend Engineer | WebFlow Innovations | 2022 - Present\n- Built customer-facing enterprise dashboard using React, TypeScript, and Tailwind CSS.\n- Migrated legacy JavaScript codebase to strict TypeScript, eliminating runtime type errors.\n- Developed GraphQL client integrations using Apollo Client to consume third-party SaaS APIs.\n- Improved core web vitals and bundle load speed by 35% through lazy loading and code splitting.\n\nFull Stack Developer | Nexa Digital | 2019 - 2022\n- Developed RESTful APIs in Node.js and Express backed by PostgreSQL and Prisma.\n- Implemented user authentication, role-based access control (RBAC), and session management.\n- Wrote unit and integration tests with Jest and Supertest achieving 85% test coverage.",
+  "expected": {
+    "minScore": 40,
+    "maxScore": 75,
+    "expectedDominantStatus": "partial",
+    "requiredSkills": ["TypeScript", "React", "Node.js", "DynamoDB", "Terraform"]
+  }
+}

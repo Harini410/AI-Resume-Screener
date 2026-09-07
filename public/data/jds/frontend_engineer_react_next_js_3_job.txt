@@ -1,0 +1,30 @@
+Staff / Lead Frontend Engineer (React / Next.js)
+Snowflake Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Staff / Lead Frontend Engineer (React / Next.js) to join our high-growth platform engineering organization at Snowflake. In this role, you will lead the technical design, development, and operation of scalable frontend solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Develop responsive and accessible web applications using React 18 and Next.js App Router
+• Implement robust type-safe frontend architecture using TypeScript and Tailwind CSS
+• Collaborate with design and product teams to build reusable design system components
+• Optimize frontend bundle sizes, asset loading, and client-side performance
+• Write unit and end-to-end tests using Jest, Vitest, and Playwright
+
+Required Qualifications:
+• 3+ years of professional frontend engineering experience with React and TypeScript
+• Deep understanding of modern JavaScript (ES6+), DOM APIs, and CSS3 / Tailwind
+• Demonstrated experience with server-side rendering (SSR) and Next.js
+• Proficiency with state management libraries and REST / GraphQL APIs
+• Bachelor's degree in Computer Science, Software Engineering, or equivalent experience
+
+Preferred Qualifications:
+• Experience with React Server Components
+• Knowledge of Web Accessibility (WCAG 2.1 AA)
+• Active open source contributions
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

@@ -1,0 +1,33 @@
+YUKI LOPEZ
+Data Scientist (Statistics & Predictive Modeling)
+Email: yuki.lopez@example.com | Phone: (555) 100-1070 | LinkedIn: linkedin.com/in/yukilopez
+
+PROFESSIONAL SUMMARY
+Results-driven Data Scientist (Statistics & Predictive Modeling) with 10+ years of hands-on experience in Data Science architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at ServiceNow and GitLab. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: Python, R, SQL, Machine Learning, Statistical Modeling, Pandas, Scikit-learn, A/B Testing
+• Tools & Platforms: Jupyter, Tableau, Git, Excel, Statsmodels
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Scientist (Statistics & Predictive Modeling) | ServiceNow | 2021 - Present
+• Formulated multivariate regression and classification models predicting customer lifetime value (LTV)
+• Designed, monitored, and analyzed randomized controlled A/B experiments for user growth initiatives
+• Conducted exploratory data analysis (EDA) on 50M+ customer engagement events to identify churn signals
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Data Scientist (Statistics & Predictive Modeling) | GitLab | 2015 - 2021
+• Built automated executive reporting dashboards in Tableau presenting statistical findings to C-suite
+• Developed customer segmentation algorithms using K-means clustering driving personalized marketing
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Cornell University | 2010 - 2014
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in Python

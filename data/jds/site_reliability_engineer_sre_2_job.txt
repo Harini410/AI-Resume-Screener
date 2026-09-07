@@ -1,0 +1,30 @@
+Senior Site Reliability Engineer (SRE)
+Airbnb Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Senior Site Reliability Engineer (SRE) to join our high-growth platform engineering organization at Airbnb. In this role, you will lead the technical design, development, and operation of scalable devops solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Champion reliability, scalability, and system resilience across globally distributed platforms
+• Partner with engineering teams to define, monitor, and enforce SLOs and SLAs
+• Lead incident triage, blameless post-mortems, and long-term architectural remediations
+• Build automated tooling in Go or Python to eliminate operational toil
+• Participate in an on-call rotation supporting mission-critical enterprise services
+
+Required Qualifications:
+• 4+ years of experience in Site Reliability Engineering, Systems Administration, or DevOps
+• Deep expertise in Linux kernel troubleshooting, networking (TCP/IP, DNS), and OS internals
+• Proficiency writing automation code in Python, Go, or Bash
+• Experience operating distributed monitoring systems (Prometheus, Datadog, OpenTelemetry)
+• Bachelor's degree in Computer Science, Software Engineering, or related field
+
+Preferred Qualifications:
+• Experience with eBPF network observability
+• Experience running Chaos Engineering in production
+• CKA certification
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

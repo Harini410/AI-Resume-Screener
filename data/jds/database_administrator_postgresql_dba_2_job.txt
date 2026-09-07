@@ -1,0 +1,30 @@
+Senior Database Administrator (PostgreSQL DBA)
+Instacart Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Senior Database Administrator (PostgreSQL DBA) to join our high-growth platform engineering organization at Instacart. In this role, you will lead the technical design, development, and operation of scalable database solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Manage, monitor, and optimize high-scale production PostgreSQL databases
+• Design and maintain database replication, automated failover, and disaster recovery plans
+• Analyze slow query logs, optimize execution plans, and guide developers on schema design
+• Plan and execute database major version upgrades with minimal application downtime
+• Implement database security, encryption at rest, and role-based access control policies
+
+Required Qualifications:
+• 5+ years of dedicated experience as a PostgreSQL Database Administrator (DBA)
+• Deep understanding of PostgreSQL internals (WAL, MVCC, vacuuming, locking mechanisms)
+• Hands-on experience with high availability tools such as Patroni, repmgr, or AWS Aurora PostgreSQL
+• Proficiency with connection pooling (PgBouncer) and backup tooling (pgBackRest, WAL-G)
+• Bachelor's degree in Computer Science or equivalent technical field
+
+Preferred Qualifications:
+• Experience managing PostgreSQL on bare-metal and cloud (AWS RDS/Aurora)
+• Linux kernel parameter tuning for database servers
+• Python or Go scripting for DBA automation
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

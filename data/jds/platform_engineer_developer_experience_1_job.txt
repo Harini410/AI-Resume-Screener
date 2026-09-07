@@ -1,0 +1,30 @@
+Platform Engineer (Developer Experience)
+Dropbox Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Platform Engineer (Developer Experience) to join our high-growth platform engineering organization at Dropbox. In this role, you will lead the technical design, development, and operation of scalable devops solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Build and scale internal developer platforms that empower product engineering teams
+• Design self-service cloud infrastructure templates and golden path pipelines
+• Develop custom tooling and plugins in Go or TypeScript to enhance developer velocity
+• Standardize CI/CD workflows and eliminate friction in the software delivery lifecycle
+• Gather user feedback from engineering teams to guide platform feature roadmaps
+
+Required Qualifications:
+• 4+ years of software engineering, platform engineering, or senior DevOps experience
+• Strong software development capabilities in Go, Python, or TypeScript
+• Hands-on expertise with Kubernetes, Helm, and containerized architectures
+• Demonstrated passion for developer ergonomics, developer experience (DevEx), and automation
+• Bachelor's degree in Computer Science or related technical discipline
+
+Preferred Qualifications:
+• Experience building plugins for Spotify Backstage
+• Experience with HashiCorp Vault and dynamic secrets
+• Knowledge of GitOps principles
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

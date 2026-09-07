@@ -1,0 +1,30 @@
+Full Stack Engineer (Python & React)
+Twilio Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Full Stack Engineer (Python & React) to join our high-growth platform engineering organization at Twilio. In this role, you will lead the technical design, development, and operation of scalable full stack solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Develop full-stack web applications spanning Python (FastAPI/Django) and modern React
+• Design and build RESTful API endpoints backed by relational databases
+• Participate in agile sprint ceremonies, code reviews, and architecture discussions
+• Write automated integration tests and maintain CI/CD pipelines
+• Monitor application performance and resolve production issues
+
+Required Qualifications:
+• 3+ years of full-stack development experience with Python and React
+• Proficiency in TypeScript, HTML5, CSS3, and modern frontend workflows
+• Strong backend fundamentals in Python web frameworks (FastAPI, Django, or Flask)
+• Experience with relational databases (PostgreSQL/MySQL) and Docker
+• Bachelor's degree in Computer Science or equivalent practical experience
+
+Preferred Qualifications:
+• Familiarity with cloud hosting on AWS or GCP
+• Experience with Celery and Redis task queues
+• Knowledge of GraphQL APIs
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

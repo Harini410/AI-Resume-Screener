@@ -1,0 +1,33 @@
+OLIVER MILLER
+Frontend Engineer (React / Next.js)
+Email: oliver.miller@example.com | Phone: (555) 200-1003 | LinkedIn: linkedin.com/in/olivermiller
+
+PROFESSIONAL SUMMARY
+Results-driven Frontend Engineer (React / Next.js) with 6+ years of hands-on experience in Frontend architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Snowflake and Coinbase. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: React, Next.js, TypeScript, Tailwind CSS, Redux Toolkit, GraphQL, Webpack, Jest
+• Tools & Platforms: Figma, Git, Vercel, Storybook, Cypress
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Frontend Engineer (React / Next.js) | Snowflake | 2021 - Present
+• Architected customer-facing web applications in Next.js with server-side rendering and static generation
+• Built accessible, responsive UI component libraries using Tailwind CSS and Radix UI primitives
+• Optimized Core Web Vitals resulting in a 40% reduction in Largest Contentful Paint (LCP)
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Frontend Engineer (React / Next.js) | Coinbase | 2019 - 2021
+• Engineered state management and data caching layers utilizing React Query and Redux Toolkit
+• Collaborated with UX designers in Figma to translate wireframes into interactive pixel-perfect screens
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+UC Berkeley | 2014 - 2018
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in React

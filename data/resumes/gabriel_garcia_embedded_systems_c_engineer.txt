@@ -1,0 +1,33 @@
+GABRIEL GARCIA
+Embedded Systems & C++ Engineer
+Email: gabriel.garcia@example.com | Phone: (555) 200-1024 | LinkedIn: linkedin.com/in/gabrielgarcia
+
+PROFESSIONAL SUMMARY
+Results-driven Embedded Systems & C++ Engineer with 6+ years of hands-on experience in Embedded architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at ServiceNow and GitLab. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: C++, C, RTOS, ARM Cortex, I2C, SPI, UART, Linux Kernel, Firmware
+• Tools & Platforms: GDB, Oscilloscopes, Logic Analyzers, JTAG, Git, CMake
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Embedded Systems & C++ Engineer | ServiceNow | 2021 - Present
+• Developed low-level embedded firmware in C/C++ on ARM Cortex-M microcontrollers for IoT devices
+• Engineered device drivers for sensor integration over I2C, SPI, and CAN bus protocols
+• Designed hard real-time scheduling tasks utilizing FreeRTOS with strict deterministic latency guarantees
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Embedded Systems & C++ Engineer | GitLab | 2019 - 2021
+• Optimized flash memory footprint and power consumption profiles extending battery life by 50%
+• Conducted hardware-in-the-loop (HIL) automated testing using logic analyzers and oscilloscopes
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+UT Austin | 2014 - 2018
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in C++

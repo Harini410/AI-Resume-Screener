@@ -1,0 +1,30 @@
+Analytics Engineer (dbt & SQL)
+GitLab Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Analytics Engineer (dbt & SQL) to join our high-growth platform engineering organization at GitLab. In this role, you will lead the technical design, development, and operation of scalable data solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Build and maintain transformed data models using dbt and cloud data warehouses
+• Apply software engineering practices (version control, CI/CD, automated tests) to analytical code
+• Partner with business stakeholders and data scientists to understand metrics requirements
+• Optimize data warehouse query performance and manage compute warehouse sizing
+• Maintain data documentation, data dictionaries, and data lineage pipelines
+
+Required Qualifications:
+• 3+ years of experience in analytics engineering, data modeling, or business intelligence
+• Expert-level SQL proficiency and experience with analytical data warehouses (Snowflake, BigQuery)
+• Extensive hands-on experience developing modular data transformation models with dbt
+• Familiarity with data visualization tools (Tableau, Looker, Power BI)
+• Bachelor's degree in Economics, Computer Science, Statistics, or related discipline
+
+Preferred Qualifications:
+• dbt Certified Developer certification
+• Proficiency writing helper scripts in Python
+• Experience with Fivetran or Airbyte ELT ingest
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

@@ -1,0 +1,33 @@
+VALERIE YOUNG
+Healthcare Informatics & HL7 FHIR Engineer
+Email: valerie.young@example.com | Phone: (555) 100-1100 | LinkedIn: linkedin.com/in/valerieyoung
+
+PROFESSIONAL SUMMARY
+Results-driven Healthcare Informatics & HL7 FHIR Engineer with 10+ years of hands-on experience in Healthcare architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Twilio and Atlassian. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: HL7, FHIR, Python, Java, PostgreSQL, HIPAA, Healthcare IT, REST APIs
+• Tools & Platforms: HAPI FHIR, Docker, Mirth Connect, Git, Postman
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Healthcare Informatics & HL7 FHIR Engineer | Twilio | 2021 - Present
+• Architected secure healthcare interoperability platforms utilizing HL7 FHIR (R4) RESTful APIs
+• Engineered data transformation pipelines converting legacy HL7 v2 pipe-delimited messages to modern FHIR JSON
+• Enforced strict HIPAA compliance, audit logging, and PHI data encryption standards at rest and in transit
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Healthcare Informatics & HL7 FHIR Engineer | Atlassian | 2015 - 2021
+• Integrated Electronic Health Record (EHR) systems with Epic and Cerner APIs using OAuth2 / SMART on FHIR
+• Maintained HAPI FHIR server instances backed by high-availability PostgreSQL clusters
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Carnegie Mellon University | 2010 - 2014
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in HL7

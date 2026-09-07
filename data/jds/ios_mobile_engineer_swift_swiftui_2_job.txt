@@ -1,0 +1,30 @@
+Senior iOS Mobile Engineer (Swift & SwiftUI)
+HubSpot Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Senior iOS Mobile Engineer (Swift & SwiftUI) to join our high-growth platform engineering organization at HubSpot. In this role, you will lead the technical design, development, and operation of scalable mobile solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Design and build performant native iOS applications using Swift and modern SwiftUI
+• Collaborate with product managers, UX designers, and backend engineers to define feature roadmaps
+• Maintain code cleanliness, test coverage, and modular MVVM architecture
+• Manage app submissions, TestFlight beta distributions, and App Store guidelines compliance
+• Diagnose and resolve performance bottlenecks, memory leaks, and UI crashes
+
+Required Qualifications:
+• 3+ years of professional iOS application development experience in Swift
+• Strong portfolio of published apps on the Apple App Store
+• Deep knowledge of iOS architectural patterns (MVVM, Clean Swift) and Apple Human Interface Guidelines
+• Proficiency with concurrency in iOS (async/await, GCD) and offline storage (CoreData/SQLite)
+• Bachelor's degree in Computer Science or equivalent experience
+
+Preferred Qualifications:
+• Experience with Combine or RxSwift
+• Familiarity with CI/CD automation using Fastlane
+• Knowledge of audio/video streaming on iOS
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

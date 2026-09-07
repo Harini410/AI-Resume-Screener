@@ -1,0 +1,33 @@
+TARIQ NGUYEN
+Azure Cloud Solutions Architect
+Email: tariq.nguyen@example.com | Phone: (555) 150-1038 | LinkedIn: linkedin.com/in/tariqnguyen
+
+PROFESSIONAL SUMMARY
+Results-driven Azure Cloud Solutions Architect with 8+ years of hands-on experience in Cloud architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Instacart and Stripe. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: Microsoft Azure, ARM Templates, Bicep, Terraform, AKS, Azure DevOps, PowerShell, C#
+• Tools & Platforms: Azure Portal, Azure Monitor, Log Analytics, Git, Visual Studio
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Azure Cloud Solutions Architect | Instacart | 2021 - Present
+• Architected enterprise cloud migrations moving on-premise infrastructure to Microsoft Azure
+• Automated infrastructure provisioning using Azure Bicep and Terraform templates across multiple subscriptions
+• Managed Azure Kubernetes Service (AKS) with integrated Azure Active Directory (Entra ID) authentication
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Azure Cloud Solutions Architect | Stripe | 2017 - 2021
+• Designed secure hybrid networking utilizing Azure ExpressRoute, Virtual WAN, and Azure Firewall
+• Implemented cost optimization strategies reducing enterprise monthly Azure cloud spend by 28%
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Princeton University | 2012 - 2016
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in Microsoft Azure

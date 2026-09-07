@@ -1,0 +1,30 @@
+Rust Systems Engineer
+Plaid Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Rust Systems Engineer to join our high-growth platform engineering organization at Plaid. In this role, you will lead the technical design, development, and operation of scalable systems solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Architect and build mission-critical, memory-safe backend systems using Rust
+• Implement asynchronous network services and concurrency models with Tokio
+• Profile CPU, memory, and cache utilization using Linux profiling tools (perf, flamegraphs)
+• Maintain comprehensive unit, integration, and fuzz testing suites
+• Collaborate with security teams to audit system memory safety and cryptography
+
+Required Qualifications:
+• 2+ years of production experience writing and maintaining software in Rust
+• Deep mastery of the Rust ownership model, borrow checker, lifetimes, and unsafe boundaries
+• Strong background in systems programming, networking (TCP/UDP), and OS internals
+• Experience with concurrent and asynchronous programming (Tokio or async-std)
+• Bachelor's degree in Computer Science or equivalent technical field
+
+Preferred Qualifications:
+• Contributions to the Rust open-source ecosystem
+• Experience with SIMD vectorization
+• Knowledge of WebAssembly runtimes
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

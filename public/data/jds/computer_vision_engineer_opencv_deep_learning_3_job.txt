@@ -1,0 +1,30 @@
+Staff / Lead Computer Vision Engineer (OpenCV & Deep Learning)
+Shopify Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Staff / Lead Computer Vision Engineer (OpenCV & Deep Learning) to join our high-growth platform engineering organization at Shopify. In this role, you will lead the technical design, development, and operation of scalable ai/ml solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Design and train deep learning models for object detection, classification, and tracking
+• Build real-time image and video processing pipelines in Python and Modern C++
+• Optimize model inference for deployment on edge hardware and GPU servers using TensorRT
+• Collaborate with hardware teams on optical camera selection and lighting setups
+• Conduct model performance evaluations against challenging real-world visual edge cases
+
+Required Qualifications:
+• 3+ years of experience in Computer Vision and Deep Learning development
+• Proficiency in Python and OpenCV for digital image processing and feature extraction
+• Hands-on experience training vision models in PyTorch or TensorFlow (YOLO, ResNet, ViT)
+• Experience optimizing models with TensorRT, ONNX Runtime, or OpenVINO
+• Master's degree in Computer Science, Electrical Engineering, or related field
+
+Preferred Qualifications:
+• Proficiency in C++ for real-time video stream ingestion
+• Experience with 3D vision, point clouds, or SLAM
+• Experience deploying to NVIDIA Jetson edge embedded platforms
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

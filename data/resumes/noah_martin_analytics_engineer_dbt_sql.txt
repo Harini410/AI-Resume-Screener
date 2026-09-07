@@ -1,0 +1,33 @@
+NOAH MARTIN
+Analytics Engineer (dbt & SQL)
+Email: noah.martin@example.com | Phone: (555) 100-1052 | LinkedIn: linkedin.com/in/noahmartin
+
+PROFESSIONAL SUMMARY
+Results-driven Analytics Engineer (dbt & SQL) with 10+ years of hands-on experience in Data architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Airbnb and Cloudflare. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: dbt, SQL, Snowflake, PostgreSQL, Python, Data Modeling, Git, Tableau
+• Tools & Platforms: Fivetran, Looker, Airbyte, GitHub, Hex
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Analytics Engineer (dbt & SQL) | Airbnb | 2021 - Present
+• Developed robust dbt data models transforming raw staging data into production Kimball star schemas
+• Authored clean, performant SQL queries and macros adhering to software engineering best practices
+• Configured automated dbt testing and documentation generating comprehensive data lineage graphs
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Analytics Engineer (dbt & SQL) | Cloudflare | 2015 - 2021
+• Created executive KPI reporting dashboards in Tableau and Looker tracking recurring revenue and churn
+• Partnered with business teams to translate ambiguous business requirements into verifiable data models
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+UC Berkeley | 2010 - 2014
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in dbt

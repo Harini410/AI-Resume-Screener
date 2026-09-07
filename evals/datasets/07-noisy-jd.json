@@ -1,0 +1,14 @@
+{
+  "id": "scenario-07",
+  "name": "Noisy JD - Frontend Specialist",
+  "scenario": "noisy_jd",
+  "description": "Job description contains excessive corporate fluff, perks, emojis, and boilerplate surrounding concrete technical requirements.",
+  "jobDescription": "🚀 ARE YOU A 10X ROCKSTAR NINJA WIZARD? 🌟\nCome crush code with us at DisruptiveHyperScale! We play ping pong, drink cold brew on tap, and change the universe every Tuesday!\n\nPerks & Culture:\n- Unlimited PTO (we mean it!)\n- Free kombucha and catered taco Tuesdays\n- Pet-friendly dog park in the office kitchen\n- Annual company retreat to Bali\n\nWhat you will bring to the vibe:\n- Must know React and Next.js deeply (at least 3 years building web apps)\n- Must have rock-solid TypeScript skills and know how to use strict typing\n- Hands-on experience with Tailwind CSS for rapid modern styling\n- Ability to work in a fast-paced agile environment with good energy\n\nEqual Opportunity Employer:\nWe do not discriminate based on race, color, religion, gender identity, genetic information, or favorite code editor. All applicants welcome! Submit your portfolio today!",
+  "resumeText": "Sam Chen\nFrontend Software Engineer\nEmail: sam.chen@example.com | GitHub: github.com/schen-frontend\n\nPROFESSIONAL SUMMARY\nFrontend engineer with 4 years of experience building scalable, accessible, and responsive user interfaces using React, Next.js, and TypeScript.\n\nSKILLS\nLanguages: TypeScript, JavaScript (ES6+), HTML5, CSS3\nFrameworks: React 18, Next.js (App Router), Tailwind CSS, Redux Toolkit\nTesting: Vitest, React Testing Library, Playwright\n\nPROFESSIONAL EXPERIENCE\n\nFrontend Engineer | SaaSify Solutions | 2022 - Present\n- Engineered web application using Next.js 14 App Router and TypeScript, serving 500k monthly active users.\n- Implemented responsive design system using Tailwind CSS with automated dark mode and WCAG 2.1 AA accessibility compliance.\n- Wrote comprehensive end-to-end and component tests using Playwright and React Testing Library.\n\nJunior UI Developer | PixelPulse | 2020 - 2022\n- Developed interactive customer onboarding flows in React and TypeScript.\n- Refactored legacy CSS into modular Tailwind utility classes.",
+  "expected": {
+    "minScore": 75,
+    "maxScore": 100,
+    "expectedDominantStatus": "matched",
+    "requiredSkills": ["React", "Next.js", "TypeScript", "Tailwind CSS"]
+  }
+}

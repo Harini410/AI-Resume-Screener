@@ -1,0 +1,33 @@
+DMITRI MARTINEZ
+Technical Product Manager (B2B SaaS)
+Email: dmitri.martinez@example.com | Phone: (555) 200-1090 | LinkedIn: linkedin.com/in/dmitrimartinez
+
+PROFESSIONAL SUMMARY
+Results-driven Technical Product Manager (B2B SaaS) with 6+ years of hands-on experience in Product architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Stripe and Shopify. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: Product Strategy, Roadmap Planning, Agile, User Stories, SQL, Data Analytics, APIs, UX
+• Tools & Platforms: Jira, Confluence, Figma, Mixpanel, Amplitude
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Technical Product Manager (B2B SaaS) | Stripe | 2021 - Present
+• Defined and executed product strategy and roadmap for an enterprise B2B SaaS platform serving 50,000 users
+• Synthesized qualitative customer interviews and quantitative usage metrics in Amplitude into prioritized backlogs
+• Authored detailed technical product requirement documents (PRDs), user stories, and acceptance criteria
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Technical Product Manager (B2B SaaS) | Shopify | 2019 - 2021
+• Collaborated daily with engineering leads and designers across 2-week agile sprint planning and retrospectives
+• Successfully launched 3 major enterprise modules driving a 35% increase in annual contract value (ACV)
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+MIT | 2014 - 2018
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in Product Strategy

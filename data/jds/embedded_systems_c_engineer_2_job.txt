@@ -1,0 +1,30 @@
+Senior Embedded Systems & C++ Engineer
+HashiCorp Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Senior Embedded Systems & C++ Engineer to join our high-growth platform engineering organization at HashiCorp. In this role, you will lead the technical design, development, and operation of scalable embedded solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Develop and test embedded firmware in C and Modern C++ (C++17/20)
+• Design real-time software architectures running on bare-metal and RTOS platforms
+• Write hardware abstraction layers, peripheral drivers, and communication protocols
+• Debug firmware issues using JTAG, logic analyzers, and in-circuit emulators
+• Collaborate with electrical engineering teams during PCB bring-up and verification
+
+Required Qualifications:
+• 4+ years of professional embedded firmware development in C and C++
+• Hands-on experience with microcontroller architectures (ARM Cortex-M, ESP32, STM32)
+• Proficiency with real-time operating systems (FreeRTOS, Zephyr, or Embedded Linux)
+• Solid understanding of hardware interfaces: UART, SPI, I2C, CAN, USB
+• BS or MS in Electrical Engineering, Computer Engineering, or Computer Science
+
+Preferred Qualifications:
+• Experience with low-power wireless protocols (BLE, Zigbee, LoRa)
+• Knowledge of safety-critical standards (ISO 26262 or IEC 62304)
+• Experience with CMake and automated CI for firmware
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

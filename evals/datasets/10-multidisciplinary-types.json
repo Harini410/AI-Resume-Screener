@@ -1,0 +1,14 @@
+{
+  "id": "scenario-10",
+  "name": "Data Platform & Analytics Engineer",
+  "scenario": "multidisciplinary_types",
+  "description": "Multi-disciplinary role spanning data engineering, cloud data warehousing, and infrastructure as code.",
+  "jobDescription": "Data Platform Engineer\n\nRequirements:\n- 4+ years building data pipelines in Python and Apache Spark\n- Hands-on data modeling in Snowflake or Databricks\n- Workflow orchestration using Apache Airflow or Prefect\n- Experience managing data infrastructure using Terraform on AWS or GCP\n- Proven track record implementing data quality testing and monitoring",
+  "resumeText": "David Kim\nData Engineer\nEmail: dkim.data@example.com\n\nSUMMARY\nData Engineer with 5 years specializing in distributed ETL/ELT pipelines, Snowflake data warehousing, and workflow orchestration.\n\nSKILLS\nData Technologies: Apache Spark, PySpark, Snowflake, dbt, Apache Airflow, SQL, Python\nCloud & Tools: AWS (S3, Glue), Docker, Git, Linux, Great Expectations\n\nPROFESSIONAL EXPERIENCE\n\nData Engineer | FinAnalytics Corp | 2022 - Present\n- Built PySpark and Apache Spark batch streaming jobs processing 500GB daily transaction logs.\n- Modeled dimensional star schemas in Snowflake, reducing query costs by 30% through clustering keys.\n- Scheduled and monitored 40+ production DAGs using Apache Airflow with automated Slack alerts.\n- Implemented automated data quality checks with Great Expectations catching schema drift.\n\nJunior BI Developer | Metrix Insights | 2019 - 2022\n- Wrote complex SQL queries and Python ETL scripts to ingest third-party CRM records.\n- Built Tableau dashboards for business stakeholders.",
+  "expected": {
+    "minScore": 60,
+    "maxScore": 85,
+    "expectedDominantStatus": "matched",
+    "requiredSkills": ["Python", "Apache Spark", "Snowflake", "Airflow", "Terraform"]
+  }
+}

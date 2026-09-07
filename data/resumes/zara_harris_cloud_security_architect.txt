@@ -1,0 +1,33 @@
+ZARA HARRIS
+Cloud Security Architect
+Email: zara.harris@example.com | Phone: (555) 200-1075 | LinkedIn: linkedin.com/in/zaraharris
+
+PROFESSIONAL SUMMARY
+Results-driven Cloud Security Architect with 6+ years of hands-on experience in Cybersecurity architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Affirm and Instacart. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: AWS Security, Zero Trust, IAM, Cloud Security, Terraform, Python, Kubernetes, Linux
+• Tools & Platforms: AWS GuardDuty, Security Hub, Prisma Cloud, Wiz, Vault
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Cloud Security Architect | Affirm | 2021 - Present
+• Architected enterprise Zero Trust security models across multi-account AWS environments
+• Authored complex Service Control Policies (SCPs) and least-privilege IAM condition policies
+• Deployed automated cloud threat detection and posture management utilizing AWS GuardDuty and Wiz
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Cloud Security Architect | Instacart | 2019 - 2021
+• Integrated automated container image vulnerability scanning into CI/CD pipelines catching CVEs pre-merge
+• Led technical preparations achieving SOC 2 Type II and ISO 27001 certifications with zero major non-conformities
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Columbia University | 2014 - 2018
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in AWS Security

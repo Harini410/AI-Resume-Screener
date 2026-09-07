@@ -1,0 +1,33 @@
+MARCUS LEWIS
+iOS Mobile Engineer (Swift & SwiftUI)
+Email: marcus.lewis@example.com | Phone: (555) 100-1013 | LinkedIn: linkedin.com/in/marcuslewis
+
+PROFESSIONAL SUMMARY
+Results-driven iOS Mobile Engineer (Swift & SwiftUI) with 10+ years of hands-on experience in Mobile architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Elastic and HubSpot. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: Swift, SwiftUI, UIKit, Combine, Core Data, REST APIs, CocoaPods, Xcode
+• Tools & Platforms: TestFlight, App Store Connect, Git, Firebase, Fastlane
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior iOS Mobile Engineer (Swift & SwiftUI) | Elastic | 2021 - Present
+• Developed native iOS applications in Swift and SwiftUI published on the Apple App Store with 4.8-star ratings
+• Implemented reactive data pipelines and state management using Combine and Core Data persistence
+• Integrated RESTful JSON APIs and WebSocket protocols for real-time messaging and live location tracking
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+iOS Mobile Engineer (Swift & SwiftUI) | HubSpot | 2015 - 2021
+• Reduced app launch latency by 30% through modular architecture and background thread optimization
+• Configured automated build, test, and TestFlight deployment workflows using Fastlane and GitHub Actions
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Harvard University | 2010 - 2014
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in Swift

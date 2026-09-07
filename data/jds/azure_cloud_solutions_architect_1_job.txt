@@ -1,0 +1,30 @@
+Azure Cloud Solutions Architect
+Twilio Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Azure Cloud Solutions Architect to join our high-growth platform engineering organization at Twilio. In this role, you will lead the technical design, development, and operation of scalable cloud solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Design high-availability enterprise architectures on Microsoft Azure
+• Author declarative Infrastructure as Code using Azure Bicep or Terraform
+• Implement Azure security baselines, Azure Policy guardrails, and role-based access
+• Collaborate with enterprise clients to architect cloud adoption and migration roadmaps
+• Monitor Azure resource consumption and lead governance initiatives
+
+Required Qualifications:
+• 5+ years of hands-on cloud architecture and engineering experience with Microsoft Azure
+• In-depth knowledge of Azure networking, compute, storage, and identity management
+• Proficiency with Infrastructure as Code using Bicep, Terraform, or ARM templates
+• Experience with Azure DevOps CI/CD pipelines and container platforms (AKS)
+• Bachelor's degree in Computer Science, Information Technology, or equivalent
+
+Preferred Qualifications:
+• Microsoft Certified: Azure Solutions Architect Expert
+• Experience in financial services or regulated compliance environments
+• Strong PowerShell scripting proficiency
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

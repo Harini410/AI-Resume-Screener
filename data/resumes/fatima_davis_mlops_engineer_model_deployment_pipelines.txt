@@ -1,0 +1,33 @@
+FATIMA DAVIS
+MLOps Engineer (Model Deployment & Pipelines)
+Email: fatima.davis@example.com | Phone: (555) 150-1068 | LinkedIn: linkedin.com/in/fatimadavis
+
+PROFESSIONAL SUMMARY
+Results-driven MLOps Engineer (Model Deployment & Pipelines) with 8+ years of hands-on experience in AI/ML architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Okta and Affirm. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: Python, Docker, Kubernetes, MLflow, Kubeflow, AWS SageMaker, CI/CD, Terraform
+• Tools & Platforms: GitHub Actions, DVC, Prometheus, Grafana, Evidently AI
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior MLOps Engineer (Model Deployment & Pipelines) | Okta | 2021 - Present
+• Architected end-to-end MLOps platforms automating machine learning model training and deployment
+• Built reproducible training pipelines using Kubeflow and containerized microservices on Kubernetes
+• Implemented automated model registry, artifact versioning, and canary release workflows with MLflow
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+MLOps Engineer (Model Deployment & Pipelines) | Affirm | 2017 - 2021
+• Configured production model telemetry tracking inference latency, concept drift, and data distribution shifts
+• Decreased time-to-production for new machine learning models from 6 weeks to 3 days
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Cornell University | 2012 - 2016
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in Python

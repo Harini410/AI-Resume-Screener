@@ -1,0 +1,33 @@
+LAYLA GONZALEZ
+Rust Systems Engineer
+Email: layla.gonzalez@example.com | Phone: (555) 200-1027 | LinkedIn: linkedin.com/in/laylagonzalez
+
+PROFESSIONAL SUMMARY
+Results-driven Rust Systems Engineer with 6+ years of hands-on experience in Systems architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Square and Databricks. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: Rust, Tokio, Async Rust, WebAssembly, C++, Distributed Systems, PostgreSQL, Docker
+• Tools & Platforms: Cargo, Linux, Valgrind, Git, GDB, perf
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Rust Systems Engineer | Square | 2021 - Present
+• Engineered ultra-low-latency distributed network proxies in Rust utilizing Tokio asynchronous runtime
+• Achieved memory-safe high-throughput data processing handling 100,000 network packets/second with zero data races
+• Compiled high-performance mathematical modules to WebAssembly (Wasm) for edge execution
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Rust Systems Engineer | Databricks | 2019 - 2021
+• Built custom memory allocators and zero-copy deserialization routines reducing CPU overhead by 28%
+• Integrated Rust FFI interfaces with existing legacy C++ infrastructure
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+UCLA | 2014 - 2018
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in Rust

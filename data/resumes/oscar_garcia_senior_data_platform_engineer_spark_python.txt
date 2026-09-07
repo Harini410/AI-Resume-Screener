@@ -1,0 +1,33 @@
+OSCAR GARCIA
+Senior Data Platform Engineer (Spark & Python)
+Email: oscar.garcia@example.com | Phone: (555) 100-1046 | LinkedIn: linkedin.com/in/oscargarcia
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Platform Engineer (Spark & Python) with 10+ years of hands-on experience in Data architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Stripe and Shopify. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: Python, Apache Spark, PySpark, Snowflake, Apache Airflow, SQL, Docker, AWS
+• Tools & Platforms: dbt, Git, AWS S3, Databricks, Great Expectations
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Senior Data Platform Engineer (Spark & Python) | Stripe | 2021 - Present
+• Built distributed batch and streaming ETL/ELT data pipelines in PySpark processing over 2TB of daily logs
+• Designed dimensional star schemas and data marts in Snowflake data warehouse
+• Orchestrated 60+ interdependent data ingestion workflows using Apache Airflow DAGs with Slack alerts
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Senior Data Platform Engineer (Spark & Python) | Shopify | 2015 - 2021
+• Integrated automated data quality validation checks using Great Expectations to catch schema drift
+• Optimized Spark memory partition sizing and shuffle spill reducing cluster compute costs by 32%
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Stanford University | 2010 - 2014
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in Python

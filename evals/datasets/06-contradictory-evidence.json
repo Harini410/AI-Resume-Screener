@@ -1,0 +1,14 @@
+{
+  "id": "scenario-06",
+  "name": "Contradictory Claims - Mobile Architect",
+  "scenario": "contradictory_evidence",
+  "description": "Resume contains high-level claims in the summary that directly contradict the actual work history, responsibilities, and dates in the experience section.",
+  "jobDescription": "Principal Mobile Architect\n\nRequirements:\n- 8+ years of hands-on production mobile engineering in Swift and iOS architecture\n- Proven experience architecting enterprise iOS applications with VIPER or Clean Swift\n- Track record of mentoring junior iOS engineers and establishing mobile CI/CD pipelines\n- Multiple published consumer applications on the Apple App Store with high active user volume",
+  "resumeText": "Riley Adams\nEmail: riley.adams@example.com\n\nEXECUTIVE SUMMARY\nPrincipal Mobile Architect with over 10 years of expert iOS development experience in Swift, having built dozens of world-class mobile apps.\n\nWORK EXPERIENCE\n\nManual QA Tester | QualityFirst Labs | 2023 - Present\n- Executed manual test scripts on web browsers according to test matrices.\n- Logged UI bugs and reproduction steps into Jira.\n- No software engineering, coding, or Swift programming responsibilities.\n\nCustomer Support Associate | RetailTech | 2021 - 2023\n- Responded to tier-1 user support inquiries and tickets regarding billing and login issues.\n- Verified customer credentials and routed technical escalation tickets.\n\nEDUCATION\nHigh School Diploma | Central High | 2020",
+  "expected": {
+    "minScore": 0,
+    "maxScore": 30,
+    "expectedDominantStatus": "gap",
+    "requiredSkills": ["Swift", "iOS", "VIPER", "App Store"]
+  }
+}

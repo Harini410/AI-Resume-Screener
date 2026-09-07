@@ -1,0 +1,30 @@
+MLOps Engineer (Model Deployment & Pipelines)
+Twilio Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional MLOps Engineer (Model Deployment & Pipelines) to join our high-growth platform engineering organization at Twilio. In this role, you will lead the technical design, development, and operation of scalable ai/ml solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Build and maintain MLOps infrastructure supporting data scientists and ML engineers
+• Design automated continuous training (CT) and continuous deployment (CD) pipelines for ML models
+• Deploy and manage scalable model inference clusters on Kubernetes with GPU resource sharing
+• Establish automated model monitoring, data drift alerts, and performance metrics dashboards
+• Ensure ML infrastructure security, access control, and regulatory compliance
+
+Required Qualifications:
+• 3+ years of experience in MLOps, DevOps for ML, or Machine Learning Infrastructure
+• Strong proficiency with container orchestration (Kubernetes, Docker) and cloud platforms (AWS, GCP)
+• Experience with MLOps frameworks such as Kubeflow, MLflow, Seldon Core, or AWS SageMaker
+• Proficiency in Python and shell scripting for workflow automation
+• BS in Computer Science, Software Engineering, or related technical field
+
+Preferred Qualifications:
+• Experience with Feast feature store
+• Knowledge of GPU scheduling on Kubernetes (NVIDIA GPU Operator)
+• CKA certification
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

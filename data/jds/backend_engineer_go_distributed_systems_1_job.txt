@@ -1,0 +1,30 @@
+Backend Engineer (Go / Distributed Systems)
+Figma Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Backend Engineer (Go / Distributed Systems) to join our high-growth platform engineering organization at Figma. In this role, you will lead the technical design, development, and operation of scalable backend solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Design and maintain scalable backend microservices written in Go
+• Build high-volume streaming architectures and message queues using Apache Kafka
+• Model and optimize relational database schemas in PostgreSQL
+• Develop secure, low-latency gRPC and RESTful API endpoints
+• Implement observability, telemetry metrics, and distributed tracing
+
+Required Qualifications:
+• 4+ years of professional backend software development with Go (Golang)
+• Strong knowledge of concurrency patterns, goroutines, and channels
+• Demonstrated production experience with PostgreSQL or MySQL at scale
+• Hands-on experience with distributed messaging systems such as Kafka or RabbitMQ
+• BS in Computer Science or related technical field
+
+Preferred Qualifications:
+• Experience with Kubernetes operator development
+• Knowledge of Raft consensus or distributed storage internals
+• Experience with Istio service mesh
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

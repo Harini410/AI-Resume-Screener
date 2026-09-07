@@ -1,0 +1,30 @@
+Staff / Lead Cross-Platform Mobile Engineer (React Native)
+Affirm Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Staff / Lead Cross-Platform Mobile Engineer (React Native) to join our high-growth platform engineering organization at Affirm. In this role, you will lead the technical design, development, and operation of scalable mobile solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Build and maintain cross-platform mobile apps using React Native and TypeScript
+• Optimize native bridges, app launch times, and graphical render performance
+• Collaborate with backend engineers to consume RESTful endpoints and WebSockets
+• Manage app store release lifecycles across both Apple App Store and Google Play Console
+• Write unit and component tests with Jest and React Native Testing Library
+
+Required Qualifications:
+• 3+ years of commercial experience building apps with React Native
+• Strong foundation in TypeScript, JavaScript ES6+, and React core fundamentals
+• Familiarity with native platform tooling (Xcode, Android Studio, Gradle, CocoaPods)
+• Proven track record delivering production apps to App Store and Google Play
+• Degree in Computer Science or equivalent software development experience
+
+Preferred Qualifications:
+• Experience with Expo Application Services (EAS)
+• Hands-on native Swift or Kotlin development
+• Experience with mobile deep linking and push notifications
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

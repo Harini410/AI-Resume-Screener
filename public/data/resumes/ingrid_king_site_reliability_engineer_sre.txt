@@ -1,0 +1,33 @@
+INGRID KING
+Site Reliability Engineer (SRE)
+Email: ingrid.king@example.com | Phone: (555) 200-1036 | LinkedIn: linkedin.com/in/ingridking
+
+PROFESSIONAL SUMMARY
+Results-driven Site Reliability Engineer (SRE) with 6+ years of hands-on experience in DevOps architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Plaid and Scale AI. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: Linux, Kubernetes, Python, Go, SLOs, Prometheus, Incident Response, Terraform
+• Tools & Platforms: Datadog, PagerDuty, Grafana, Chaos Mesh, Git
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Site Reliability Engineer (SRE) | Plaid | 2021 - Present
+• Defined and enforced Service Level Objectives (SLOs), SLIs, and Error Budgets for 99.99% system uptime
+• Served as incident commander leading post-mortem retrospectives and root-cause analysis for major outages
+• Automated infrastructure self-healing and auto-remediation scripts in Python and Go
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Site Reliability Engineer (SRE) | Scale AI | 2019 - 2021
+• Executed chaos engineering experiments to test network partitions and cluster failovers under load
+• Managed 24/7 on-call pager rotation protocols ensuring mean time to acknowledge (MTTA) under 3 minutes
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Princeton University | 2014 - 2018
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in Linux

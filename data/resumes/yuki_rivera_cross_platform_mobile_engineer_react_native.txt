@@ -1,0 +1,33 @@
+YUKI RIVERA
+Cross-Platform Mobile Engineer (React Native)
+Email: yuki.rivera@example.com | Phone: (555) 150-1020 | LinkedIn: linkedin.com/in/yukirivera
+
+PROFESSIONAL SUMMARY
+Results-driven Cross-Platform Mobile Engineer (React Native) with 8+ years of hands-on experience in Mobile architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at HubSpot and Square. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: React Native, TypeScript, JavaScript, Redux, Native Modules, iOS, Android, REST
+• Tools & Platforms: Expo, Xcode, Android Studio, Git, Bitrise
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Cross-Platform Mobile Engineer (React Native) | HubSpot | 2021 - Present
+• Developed high-performance cross-platform mobile apps for iOS and Android using React Native and TypeScript
+• Bridged native iOS (Swift) and Android (Kotlin) SDKs for biometric authentication and Bluetooth peripherals
+• Enhanced animation frame rates to 60fps utilizing Reanimated 3 and gesture-handler libraries
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Cross-Platform Mobile Engineer (React Native) | Square | 2017 - 2021
+• Streamlined state management and offline cache synchronization with Redux Toolkit and AsyncStorage
+• Maintained automated multi-platform deployment pipelines via Bitrise and Fastlane
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Michigan | 2012 - 2016
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in React Native

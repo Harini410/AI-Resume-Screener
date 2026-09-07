@@ -1,0 +1,30 @@
+Staff / Lead Ruby on Rails Full-Stack Developer
+Scale AI Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Staff / Lead Ruby on Rails Full-Stack Developer to join our high-growth platform engineering organization at Scale AI. In this role, you will lead the technical design, development, and operation of scalable full stack solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Build robust, maintainable SaaS applications using Ruby on Rails and PostgreSQL
+• Design and maintain RESTful API endpoints and background worker queues
+• Collaborate with cross-functional teams to iterate quickly on customer features
+• Write thorough automated tests using RSpec to prevent regressions
+• Optimize application performance and database queries in production
+
+Required Qualifications:
+• 3+ years of professional web development experience with Ruby on Rails
+• Strong relational database skills in PostgreSQL and ActiveRecord query tuning
+• Experience managing background job queues using Sidekiq and Redis
+• Proficiency with modern frontend tools (JavaScript, HTML5, CSS3/Tailwind)
+• BS in Computer Science or equivalent practical development experience
+
+Preferred Qualifications:
+• Experience with Rails 7 and Hotwire / Turbo
+• Familiarity with containerized deployments via Docker and AWS
+• Experience with Stripe API integrations
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

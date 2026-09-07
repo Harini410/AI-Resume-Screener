@@ -1,0 +1,30 @@
+Staff / Lead Healthcare Informatics & HL7 FHIR Engineer
+Atlassian Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Staff / Lead Healthcare Informatics & HL7 FHIR Engineer to join our high-growth platform engineering organization at Atlassian. In this role, you will lead the technical design, development, and operation of scalable healthcare solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Build and maintain healthcare data integration pipelines using HL7 v2 and FHIR standards
+• Design and deploy SMART on FHIR applications integrated with major EHR vendors
+• Ensure all healthcare software architectures strictly adhere to HIPAA security standards
+• Collaborate with clinical informaticists and healthcare providers to define interoperability workflows
+• Write automated integration tests and monitor healthcare data exchange reliability
+
+Required Qualifications:
+• 3+ years of software engineering experience in healthcare technology or health informatics
+• Deep practical experience with HL7 v2 and HL7 FHIR (R4) specifications
+• Strong programming proficiency in Python or Java
+• Firm understanding of HIPAA regulatory compliance, patient privacy, and PHI protection
+• Bachelor's degree in Computer Science, Health Informatics, or related field
+
+Preferred Qualifications:
+• Experience with Epic App Orchard or Cerner Open Developer Experience
+• Experience with integration engines like Mirth Connect / NextGen Connect
+• HL7 FHIR certification
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

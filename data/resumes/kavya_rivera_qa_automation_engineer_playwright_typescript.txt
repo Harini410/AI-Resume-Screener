@@ -1,0 +1,33 @@
+KAVYA RIVERA
+QA Automation Engineer (Playwright & TypeScript)
+Email: kavya.rivera@example.com | Phone: (555) 200-1084 | LinkedIn: linkedin.com/in/kavyarivera
+
+PROFESSIONAL SUMMARY
+Results-driven QA Automation Engineer (Playwright & TypeScript) with 6+ years of hands-on experience in QA architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at DoorDash and Datadog. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: Playwright, TypeScript, JavaScript, Selenium, CI/CD, API Testing, Jest, Git
+• Tools & Platforms: GitHub Actions, Postman, BrowserStack, Jira, Allure
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior QA Automation Engineer (Playwright & TypeScript) | DoorDash | 2021 - Present
+• Architected end-to-end web test automation frameworks from scratch using Playwright and TypeScript
+• Implemented automated cross-browser testing across Chrome, Safari, and Firefox running in parallel CI jobs
+• Built automated REST API regression test suites using Playwright API client reducing regression cycle times by 75%
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+QA Automation Engineer (Playwright & TypeScript) | Datadog | 2019 - 2021
+• Generated detailed interactive test execution reports with screenshots and video artifacts using Allure
+• Collaborated with product teams to translate user stories into comprehensive automated test cases
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Purdue University | 2014 - 2018
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in Playwright

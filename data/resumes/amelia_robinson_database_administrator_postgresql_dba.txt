@@ -1,0 +1,33 @@
+AMELIA ROBINSON
+Database Administrator (PostgreSQL DBA)
+Email: amelia.robinson@example.com | Phone: (555) 150-1056 | LinkedIn: linkedin.com/in/ameliarobinson
+
+PROFESSIONAL SUMMARY
+Results-driven Database Administrator (PostgreSQL DBA) with 8+ years of hands-on experience in Database architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Coinbase and Dropbox. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: PostgreSQL, SQL, Database Tuning, Replication, High Availability, Backup & Recovery, Linux, Bash
+• Tools & Platforms: PgBouncer, Patroni, pgBackRest, Prometheus, AWS RDS
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Database Administrator (PostgreSQL DBA) | Coinbase | 2021 - Present
+• Administered multi-terabyte PostgreSQL production database clusters with 99.999% data availability
+• Engineered automated high availability and failover architectures using Patroni, etcd, and streaming replication
+• Optimized query execution plans, indexes (B-tree, GIN, BRIN), and autovacuum tuning reducing query IO by 50%
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Database Administrator (PostgreSQL DBA) | Dropbox | 2017 - 2021
+• Implemented enterprise point-in-time recovery (PITR) backup strategies utilizing pgBackRest
+• Configured PgBouncer connection pooling supporting 20,000 concurrent client connections without connection starvation
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Harvard University | 2012 - 2016
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in PostgreSQL

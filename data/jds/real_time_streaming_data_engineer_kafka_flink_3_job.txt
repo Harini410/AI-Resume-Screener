@@ -1,0 +1,30 @@
+Staff / Lead Real-time Streaming Data Engineer (Kafka & Flink)
+Affirm Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Staff / Lead Real-time Streaming Data Engineer (Kafka & Flink) to join our high-growth platform engineering organization at Affirm. In this role, you will lead the technical design, development, and operation of scalable data solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Architect and operate low-latency streaming pipelines using Apache Kafka and Apache Flink
+• Build real-time event-driven data processing services in Java or Scala
+• Manage Kafka topics, partition distributions, and consumer group offsets
+• Implement data serialization schemas with Avro or Protobuf and Schema Registry
+• Monitor stream processing throughput, lag metrics, and backpressure in production
+
+Required Qualifications:
+• 4+ years of software engineering experience specializing in distributed stream processing
+• In-depth expertise with Apache Kafka internals, broker architecture, and partition design
+• Hands-on experience with stream compute frameworks (Apache Flink, Kafka Streams, or Spark Streaming)
+• Strong programming proficiency in Java or Scala
+• Degree in Computer Science or equivalent technical qualification
+
+Preferred Qualifications:
+• Confluent Certified Developer for Apache Kafka
+• Experience with Flink on Kubernetes
+• Knowledge of exactly-once semantics (EOS)
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

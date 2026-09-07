@@ -1,0 +1,30 @@
+Senior Machine Learning Engineer (PyTorch & Python)
+Roblox Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Senior Machine Learning Engineer (PyTorch & Python) to join our high-growth platform engineering organization at Roblox. In this role, you will lead the technical design, development, and operation of scalable ai/ml solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Develop, train, and deploy machine learning and deep learning models to solve business problems
+• Build robust data preprocessing, feature engineering, and evaluation pipelines
+• Collaborate with software engineers to integrate ML models into production microservices
+• Monitor deployed models for data drift, concept drift, and inference latency degradation
+• Conduct rigorous statistical experiments and communicate findings to technical stakeholders
+
+Required Qualifications:
+• 3+ years of commercial machine learning engineering experience in Python
+• Strong theoretical and applied knowledge of ML algorithms and deep learning architectures
+• Demonstrated proficiency in PyTorch or TensorFlow for building custom neural networks
+• Experience deploying ML models to production environments (Docker, FastAPI, SageMaker)
+• Master's or Bachelor's degree in Computer Science, Machine Learning, Statistics, or related STEM field
+
+Preferred Qualifications:
+• Experience with distributed training (Horovod, PyTorch DDP)
+• Knowledge of feature stores such as Feast
+• Published research at major AI conferences
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

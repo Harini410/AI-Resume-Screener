@@ -1,0 +1,33 @@
+DMITRI ADAMS
+Google Cloud Platform (GCP) Engineer
+Email: dmitri.adams@example.com | Phone: (555) 100-1040 | LinkedIn: linkedin.com/in/dmitriadams
+
+PROFESSIONAL SUMMARY
+Results-driven Google Cloud Platform (GCP) Engineer with 10+ years of hands-on experience in Cloud architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at DoorDash and Datadog. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: GCP, Google Cloud, GKE, BigQuery, Terraform, Cloud Functions, Python, Docker
+• Tools & Platforms: Cloud Build, Stackdriver, Cloud Pub/Sub, Git, gcloud CLI
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Google Cloud Platform (GCP) Engineer | DoorDash | 2021 - Present
+• Deployed and maintained production applications on Google Cloud Platform utilizing GKE Autopilot
+• Automated multi-environment GCP resource creation using Terraform modules and Google Cloud Foundation Toolkit
+• Architected real-time messaging workflows using Cloud Pub/Sub and serverless Cloud Run functions
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Google Cloud Platform (GCP) Engineer | Datadog | 2015 - 2021
+• Optimized BigQuery analytical data warehouse schemas reducing query processing times by 40%
+• Implemented centralized logging and distributed tracing via Google Cloud Operations Suite (Stackdriver)
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Princeton University | 2010 - 2014
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in GCP

@@ -1,0 +1,30 @@
+Senior Senior Java / Spring Boot Engineer
+PagerDuty Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Senior Senior Java / Spring Boot Engineer to join our high-growth platform engineering organization at PagerDuty. In this role, you will lead the technical design, development, and operation of scalable backend solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Design and implement enterprise backend services using Java 17+ and Spring Boot
+• Collaborate with architects to design resilient distributed systems and database schemas
+• Maintain high code quality standards through peer code reviews and automated testing
+• Optimize memory usage, garbage collection, and application throughput
+• Participate in 24/7 on-call rotation for Tier-1 mission-critical enterprise services
+
+Required Qualifications:
+• 5+ years of enterprise software engineering experience with Java and Spring Boot
+• Deep understanding of OOP design patterns, multithreading, and JVM internals
+• Demonstrated experience with relational database design and ORM frameworks (Hibernate/JPA)
+• Experience building microservices with REST and message brokers (Kafka or RabbitMQ)
+• Bachelor's degree in Computer Science, Software Engineering, or related discipline
+
+Preferred Qualifications:
+• Experience with cloud migration to AWS
+• Knowledge of Spring Security and OAuth2
+• Familiarity with reactive programming using Spring WebFlux
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

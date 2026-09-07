@@ -1,0 +1,14 @@
+{
+  "id": "scenario-01",
+  "name": "Senior Backend Go Engineer",
+  "scenario": "strong_match",
+  "description": "Candidate with deep verbatim experience matching every core requirement of the role.",
+  "jobDescription": "We are seeking a Senior Backend Engineer to join our platform team.\n\nRequirements:\n- 5+ years of production experience with Golang building high-throughput microservices\n- Experience designing and optimizing PostgreSQL databases, schemas, and query execution plans\n- Hands-on experience with Apache Kafka for event-driven architectures and streaming\n- Production Kubernetes experience including deployments, ingress, and Helm charts\n- Strong background in building gRPC and RESTful APIs with automated testing",
+  "resumeText": "Alex Rivera\nSenior Backend Infrastructure Engineer\nEmail: alex.rivera@example.com | GitHub: github.com/arivera-go\n\nPROFESSIONAL SUMMARY\nStaff-level backend engineer with 7 years of specialized experience in Go, distributed stream processing, and cloud-native orchestration.\n\nTECHNICAL SKILLS\nLanguages: Go (Golang), SQL, Python, Bash\nInfrastructure & Storage: PostgreSQL, Apache Kafka, Redis, Kubernetes, Helm, Docker, AWS (EKS, RDS, S3)\nProtocols & Patterns: gRPC, Protocol Buffers, REST, Event-Driven Architecture, Microservices, CI/CD\n\nPROFESSIONAL EXPERIENCE\n\nSenior Backend Engineer | CloudScale Systems | 2021 - Present\n- Architected and maintained 14 mission-critical microservices written in Golang handling 45,000 requests per second with P99 latency under 20ms.\n- Tuned PostgreSQL query execution plans, indexes, and partitioning, reducing average analytical query latency by 42% on a 3TB operational database.\n- Built real-time event streaming pipeline using Apache Kafka processing 120M events daily with guaranteed at-least-once delivery semantics.\n- Managed Kubernetes deployments on AWS EKS using Helm charts, automated horizontal pod autoscaling, and configured Istio service mesh ingress controllers.\n- Designed gRPC and RESTful public and internal service APIs with 92% unit test coverage using Go testing and testify.\n\nSoftware Engineer | DataCore Systems | 2017 - 2021\n- Developed high-concurrency Go services for telemetry ingestion.\n- Maintained relational PostgreSQL schemas, migrations, and connection pooling.",
+  "expected": {
+    "minScore": 80,
+    "maxScore": 100,
+    "expectedDominantStatus": "matched",
+    "requiredSkills": ["Golang", "PostgreSQL", "Kafka", "Kubernetes", "gRPC"]
+  }
+}

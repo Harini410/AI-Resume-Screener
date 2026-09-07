@@ -1,0 +1,33 @@
+HASSAN CLARK
+Senior DevOps & Cloud Engineer
+Email: hassan.clark@example.com | Phone: (555) 200-1033 | LinkedIn: linkedin.com/in/hassanclark
+
+PROFESSIONAL SUMMARY
+Results-driven Senior DevOps & Cloud Engineer with 6+ years of hands-on experience in DevOps architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at HashiCorp and Pinterest. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: AWS, Terraform, Kubernetes, Docker, CI/CD, Linux, Python, Bash
+• Tools & Platforms: GitHub Actions, Helm, ArgoCD, Prometheus, Grafana
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Senior DevOps & Cloud Engineer | HashiCorp | 2021 - Present
+• Architected multi-region AWS cloud infrastructure using Terraform Infrastructure as Code (IaC)
+• Managed production Kubernetes clusters on AWS EKS with automated zero-downtime blue/green rollouts
+• Built automated GitHub Actions CI/CD pipelines reducing deployment times from 45 minutes to 7 minutes
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Senior DevOps & Cloud Engineer | Pinterest | 2019 - 2021
+• Implemented comprehensive cluster monitoring and alerting with Prometheus, Grafana, and Alertmanager
+• Enforced security compliance and least-privilege IAM roles across multi-account AWS Organizations
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+UIUC | 2014 - 2018
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in AWS

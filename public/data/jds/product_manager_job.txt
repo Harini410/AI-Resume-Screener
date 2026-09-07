@@ -1,0 +1,50 @@
+Senior Product Manager
+InnovateTech Corporation
+
+Job Description:
+We are seeking an experienced Senior Product Manager to lead product strategy and execution for our flagship B2B SaaS platform. The ideal candidate will have a strong background in product management, user experience, and data-driven decision making.
+
+Key Responsibilities:
+• Define and execute product strategy and roadmap
+• Conduct user research and gather customer feedback
+• Collaborate with engineering, design, and marketing teams
+• Analyze product metrics and user behavior data
+• Lead product launches and go-to-market strategies
+• Manage product backlog and prioritize features
+• Present product updates to stakeholders and executives
+• Drive cross-functional initiatives and process improvements
+
+Required Skills:
+• 5+ years of product management experience in B2B SaaS
+• Strong analytical skills and data-driven approach
+• Experience with user research and usability testing
+• Proficiency in product management tools (Jira, Confluence, Figma)
+• Understanding of agile development methodologies
+• Excellent communication and presentation skills
+• Experience with A/B testing and experimentation
+• Bachelor's degree in Business, Engineering, or related field
+
+Preferred Skills:
+• MBA or advanced degree preferred
+• Experience in enterprise software or technology platforms
+• Knowledge of UX/UI design principles
+• Familiarity with SQL and data analysis tools
+• Experience with customer success and support teams
+• Understanding of software development lifecycle
+• Previous experience in startup or high-growth environments
+
+Technical Skills:
+• Analytics: Google Analytics, Mixpanel, Amplitude
+• Design: Figma, Sketch, Adobe Creative Suite
+• Project Management: Jira, Asana, Monday.com
+• Data Analysis: SQL, Excel, Tableau, Power BI
+• Prototyping: InVision, Marvel, Balsamiq
+• CRM: Salesforce, HubSpot, Intercom
+
+Key Metrics:
+• User engagement and retention rates
+• Feature adoption and usage metrics
+• Customer satisfaction scores (NPS, CSAT)
+• Revenue growth and conversion rates
+• Time to market for new features
+• Product-qualified leads (PQLs)

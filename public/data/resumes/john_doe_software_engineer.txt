@@ -1,0 +1,38 @@
+JOHN DOE
+Software Engineer
+Email: john.doe@email.com | Phone: (555) 123-4567 | LinkedIn: linkedin.com/in/johndoe
+
+SUMMARY
+Experienced Full-Stack Software Engineer with 5+ years developing scalable web applications using React, Node.js, and Python. Proven track record in agile development, cloud deployment, and database optimization. Strong problem-solving skills and passion for clean, maintainable code.
+
+TECHNICAL SKILLS
+• Programming Languages: JavaScript, TypeScript, Python, Java, SQL
+• Frontend: React, Next.js, Vue.js, HTML5, CSS3, Tailwind CSS
+• Backend: Node.js, Express.js, Django, FastAPI, REST APIs, GraphQL
+• Databases: PostgreSQL, MongoDB, Redis, MySQL
+• Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD, Jenkins
+• Tools: Git, VS Code, Postman, Figma, Jira
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc. | 2021 - Present
+• Developed and maintained 3 high-traffic web applications serving 100K+ users
+• Implemented microservices architecture reducing system latency by 40%
+• Led code reviews and mentored 2 junior developers
+• Collaborated with product team to deliver features on time and within scope
+
+Software Engineer | StartupXYZ | 2019 - 2021
+• Built responsive web applications using React and Node.js
+• Designed and implemented RESTful APIs for mobile and web clients
+• Optimized database queries improving application performance by 25%
+• Participated in agile development process and sprint planning
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology | 2015 - 2019
+GPA: 3.8/4.0
+
+PROJECTS
+• E-commerce Platform: Built full-stack application with React, Node.js, and PostgreSQL
+• Task Management App: Developed mobile-first web app with real-time updates
+• Open Source Contributor: Active contributor to popular JavaScript libraries

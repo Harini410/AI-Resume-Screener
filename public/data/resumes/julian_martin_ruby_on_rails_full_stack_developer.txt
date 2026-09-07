@@ -1,0 +1,33 @@
+JULIAN MARTIN
+Ruby on Rails Full-Stack Developer
+Email: julian.martin@example.com | Phone: (555) 200-1030 | LinkedIn: linkedin.com/in/julianmartin
+
+PROFESSIONAL SUMMARY
+Results-driven Ruby on Rails Full-Stack Developer with 6+ years of hands-on experience in Full Stack architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Affirm and Instacart. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: Ruby, Ruby on Rails, PostgreSQL, JavaScript, Hotwire, Sidekiq, Redis, RSpec
+• Tools & Platforms: Heroku, AWS, Git, Docker, Tailwind CSS
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Ruby on Rails Full-Stack Developer | Affirm | 2021 - Present
+• Developed high-traffic e-commerce web applications using Ruby on Rails 7 and PostgreSQL
+• Implemented background processing pipelines with Sidekiq and Redis handling 500,000 daily jobs
+• Modernized frontend interactivity utilizing Hotwire (Turbo & Stimulus) with minimal JavaScript bundle overhead
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Ruby on Rails Full-Stack Developer | Instacart | 2019 - 2021
+• Wrote comprehensive test suites with RSpec and Capybara achieving 90% test coverage
+• Optimized N+1 ActiveRecord queries reducing average database transaction times by 45%
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Columbia University | 2014 - 2018
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in Ruby

@@ -1,0 +1,33 @@
+MIA PEREZ
+Senior Java / Spring Boot Engineer
+Email: mia.perez@example.com | Phone: (555) 100-1010 | LinkedIn: linkedin.com/in/miaperez
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Java / Spring Boot Engineer with 10+ years of hands-on experience in Backend architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Twilio and Atlassian. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: Java, Spring Boot, Microservices, Hibernate, PostgreSQL, Kafka, Docker, Maven
+• Tools & Platforms: IntelliJ IDEA, Jenkins, Kubernetes, Git, Datadog
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Senior Java / Spring Boot Engineer | Twilio | 2021 - Present
+• Architected enterprise Java microservices using Spring Boot and Spring Cloud for banking clients
+• Developed high-reliability persistence layers using JPA, Hibernate, and optimized SQL queries
+• Implemented asynchronous event publishing using Kafka topics to decouple order processing workflows
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Senior Java / Spring Boot Engineer | Atlassian | 2015 - 2021
+• Refactored legacy Java monolith into containerized microservices reducing release cycles from months to days
+• Conducted rigorous automated unit and integration testing with JUnit 5 and Mockito achieving 88% coverage
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Carnegie Mellon University | 2010 - 2014
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in Java

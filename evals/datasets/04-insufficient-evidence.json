@@ -1,0 +1,14 @@
+{
+  "id": "scenario-04",
+  "name": "Cloud Security Architect",
+  "scenario": "insufficient_evidence",
+  "description": "Resume contains only vague, non-specific generalities without concrete systems, tools, or verifiable metrics.",
+  "jobDescription": "Staff Cloud Security Architect\n\nRequirements:\n- Must demonstrate hands-on implementation of Zero Trust architecture across multi-cloud environments\n- Extensive experience authoring complex AWS IAM condition policies and Service Control Policies (SCPs)\n- Proven leadership preparing enterprise systems for SOC2 Type II and ISO 27001 compliance certifications\n- Deep experience deploying automated threat detection with AWS GuardDuty and Security Hub\n- Experience performing automated static and dynamic penetration testing on distributed microservices",
+  "resumeText": "Pat Morgan\nTechnology Consultant\nEmail: pat.morgan@example.com\n\nSUMMARY\nHardworking professional with general background in IT, computers, and digital security. Interested in modern cloud practices and protecting organizational assets.\n\nSKILLS & KNOWLEDGE\nComputers, IT Support, General Security Awareness, Networking Basics, Cloud Concepts, Problem Solving, Teamwork, Communication.\n\nEXPERIENCE\n\nIT Support Specialist | General Services Corp | 2021 - Present\n- Assisted office employees with hardware and password resets.\n- Participated in weekly team meetings about company computer safety.\n- Read security newsletters and monitored company email spam filters.\n\nJunior Office Assistant | City Enterprises | 2019 - 2021\n- Handled data entry and document printing.\n- Maintained office digital records according to local guidelines.",
+  "expected": {
+    "minScore": 0,
+    "maxScore": 25,
+    "expectedDominantStatus": "insufficient_evidence",
+    "requiredSkills": ["Zero Trust", "IAM", "SOC2", "GuardDuty", "Penetration Testing"]
+  }
+}

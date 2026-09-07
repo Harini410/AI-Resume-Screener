@@ -1,0 +1,30 @@
+Google Cloud Platform (GCP) Engineer
+Cloudflare Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Google Cloud Platform (GCP) Engineer to join our high-growth platform engineering organization at Cloudflare. In this role, you will lead the technical design, development, and operation of scalable cloud solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Design and maintain scalable cloud infrastructure on Google Cloud Platform
+• Operate Google Kubernetes Engine (GKE) clusters and microservices workloads
+• Build automated CI/CD pipelines using Cloud Build and GitHub Actions
+• Implement IAM security policies and resource organization hierarchies
+• Assist data and engineering teams with GCP service integrations
+
+Required Qualifications:
+• 3+ years of professional cloud engineering experience on Google Cloud Platform (GCP)
+• Demonstrated experience with Google Kubernetes Engine (GKE) and Docker containerization
+• Proficiency in Terraform Infrastructure as Code for GCP
+• Experience with GCP networking: Cloud VPC, Cloud Load Balancing, Cloud Interconnect
+• BS in Computer Science or related degree
+
+Preferred Qualifications:
+• Google Cloud Certified Professional Cloud Architect
+• Experience with BigQuery and Dataflow pipelines
+• Experience with Anthos hybrid cloud
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

@@ -1,0 +1,30 @@
+Technical Product Manager (B2B SaaS)
+Pinterest Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Technical Product Manager (B2B SaaS) to join our high-growth platform engineering organization at Pinterest. In this role, you will lead the technical design, development, and operation of scalable product solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Lead product strategy, discovery, and roadmap execution for our core enterprise SaaS platform
+• Conduct in-depth user interviews, customer advisory board sessions, and market research
+• Write detailed PRDs, technical specifications, and user stories for engineering and design teams
+• Define and track product success metrics, adoption funnels, and retention KPIs
+• Communicate feature release updates and roadmaps to executive leadership and customers
+
+Required Qualifications:
+• 4+ years of product management experience in B2B SaaS or technical software products
+• Demonstrated ability to partner effectively with engineering teams on complex technical architectures
+• Strong analytical mindset with experience querying data (SQL) and analyzing user journeys
+• Proven track record of taking software products from initial concept to successful commercial launch
+• Bachelor's degree in Business, Computer Science, Engineering, or equivalent
+
+Preferred Qualifications:
+• Technical background as a former software engineer
+• MBA or advanced degree
+• Experience with developer-focused or API products
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

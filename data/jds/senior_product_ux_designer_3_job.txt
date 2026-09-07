@@ -1,0 +1,30 @@
+Staff / Lead Senior Product & UX Designer
+Shopify Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Staff / Lead Senior Product & UX Designer to join our high-growth platform engineering organization at Shopify. In this role, you will lead the technical design, development, and operation of scalable design solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Design intuitive, elegant, and accessible user experiences across web and mobile platforms
+• Lead user research, contextual inquiries, and usability testing to uncover customer pain points
+• Maintain and evolve our Figma design system, UI components, typography, and design tokens
+• Produce wireframes, user journeys, interaction flows, and high-fidelity interactive prototypes
+• Work closely with product managers and engineers throughout the agile development process
+
+Required Qualifications:
+• 4+ years of experience as a Product Designer, UX Designer, or UI/UX Specialist
+• Exceptional portfolio demonstrating end-to-end product thinking, user research, and polished UI design
+• Mastery of Figma (auto-layout, components, variants, variables, prototyping)
+• Strong understanding of user-centered design methodologies and usability testing
+• Degree in Human-Computer Interaction (HCI), Design, or equivalent practical experience
+
+Preferred Qualifications:
+• Familiarity with HTML, CSS, and component implementation constraints
+• Experience designing complex data-heavy B2B enterprise applications
+• Experience with design token automation
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

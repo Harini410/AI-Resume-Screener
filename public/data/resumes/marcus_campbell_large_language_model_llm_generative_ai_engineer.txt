@@ -1,0 +1,33 @@
+MARCUS CAMPBELL
+Large Language Model (LLM) & Generative AI Engineer
+Email: marcus.campbell@example.com | Phone: (555) 200-1063 | LinkedIn: linkedin.com/in/marcuscampbell
+
+PROFESSIONAL SUMMARY
+Results-driven Large Language Model (LLM) & Generative AI Engineer with 6+ years of hands-on experience in AI/ML architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Dropbox and Splunk. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: Python, PyTorch, LangChain, Hugging Face, vLLM, RAG, Vector Databases, Transformers
+• Tools & Platforms: ChromaDB, Pinecone, Qdrant, Git, Ollama
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Large Language Model (LLM) & Generative AI Engineer | Dropbox | 2021 - Present
+• Architected enterprise Retrieval-Augmented Generation (RAG) pipelines combining vector search and LLMs
+• Fine-tuned open-source LLMs (Llama, Mistral) using LoRA / QLoRA parameter-efficient techniques on GPU clusters
+• Engineered prompt architectures, hallucination guardrails, and automated evaluation benchmark suites
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Large Language Model (LLM) & Generative AI Engineer | Splunk | 2019 - 2021
+• Optimized inference throughput using vLLM with PagedAttention reducing cost-per-query by 60%
+• Integrated hybrid lexical and dense semantic vector retrieval using Pinecone and LangChain
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Michigan | 2014 - 2018
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in Python

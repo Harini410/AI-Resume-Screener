@@ -1,0 +1,14 @@
+{
+  "id": "scenario-08",
+  "name": "Concise 1-Page DevOps Resume",
+  "scenario": "short_resume",
+  "description": "Extremely concise resume under 100 words with dense high-signal bullet points.",
+  "jobDescription": "DevOps Engineer\n\nRequirements:\n- Strong hands-on Terraform experience\n- Production Kubernetes and Docker containerization\n- CI/CD pipeline automation with GitHub Actions",
+  "resumeText": "Jamie Fox | DevOps Specialist | jfox@cloudmail.io\n\nSkills: Terraform, Kubernetes, Docker, GitHub Actions, AWS, Bash.\n\nExperience:\nDevOps Engineer at InfraCo (2022-Present):\n- Automated AWS cloud infrastructure using Terraform modules.\n- Deployed production microservices on Kubernetes using Helm.\n- Built GitHub Actions CI/CD pipelines reducing deployment time by 50%.\n\nEducation: BS IT, 2021.",
+  "expected": {
+    "minScore": 80,
+    "maxScore": 100,
+    "expectedDominantStatus": "matched",
+    "requiredSkills": ["Terraform", "Kubernetes", "GitHub Actions"]
+  }
+}

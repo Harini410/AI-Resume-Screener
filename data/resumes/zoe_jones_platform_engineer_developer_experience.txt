@@ -1,0 +1,33 @@
+ZOE JONES
+Platform Engineer (Developer Experience)
+Email: zoe.jones@example.com | Phone: (555) 200-1045 | LinkedIn: linkedin.com/in/zoejones
+
+PROFESSIONAL SUMMARY
+Results-driven Platform Engineer (Developer Experience) with 6+ years of hands-on experience in DevOps architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Stripe and Shopify. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: Kubernetes, Internal Developer Platforms, Backstage, Go, Docker, Terraform, Helm, CI/CD
+• Tools & Platforms: Argo Workflows, GitHub Actions, Knative, Git, Vault
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Platform Engineer (Developer Experience) | Stripe | 2021 - Present
+• Architected an Internal Developer Platform (IDP) utilizing Spotify Backstage serving 300+ software engineers
+• Reduced developer onboarding lead time from 2 weeks to 2 hours through self-service environment provisioning
+• Standardized microservice golden paths with automated Kubernetes deployment manifests and Helm charts
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Platform Engineer (Developer Experience) | Shopify | 2019 - 2021
+• Integrated HashiCorp Vault for dynamic secret injection and automated certificate rotation
+• Built CLI developer tooling in Go to simplify local debugging, linting, and staging deployments
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+MIT | 2014 - 2018
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in Kubernetes

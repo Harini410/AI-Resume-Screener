@@ -1,0 +1,30 @@
+Software Development Engineer in Test (SDET)
+Plaid Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Software Development Engineer in Test (SDET) to join our high-growth platform engineering organization at Plaid. In this role, you will lead the technical design, development, and operation of scalable qa solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Develop scalable test frameworks, harness tools, and automation infrastructure for microservices
+• Design integration and contract tests for distributed RESTful APIs and message queues
+• Partner with developers early in design phases to identify architectural testability concerns
+• Troubleshoot complex asynchronous defects and performance regressions across staging environments
+• Drive test automation coverage metrics and quality standards across engineering teams
+
+Required Qualifications:
+• 4+ years of experience as an SDET or Software Engineer with strong quality focus
+• Strong software development proficiency in Java, Python, or Go
+• Extensive experience testing distributed microservices and RESTful API endpoints
+• Familiarity with containerized test environments utilizing Docker
+• BS in Computer Science, Computer Engineering, or related technical field
+
+Preferred Qualifications:
+• Experience with contract testing using Pact
+• Knowledge of performance/load testing using k6 or JMeter
+• Experience testing Kafka message streams
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

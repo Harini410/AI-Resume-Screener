@@ -1,0 +1,14 @@
+{
+  "id": "scenario-03",
+  "name": "Senior ML / LLM Engineer",
+  "scenario": "weak_match",
+  "description": "Candidate from marketing/SEO background applying for high-level machine learning and PyTorch CUDA systems role.",
+  "jobDescription": "Senior Machine Learning Systems Engineer\n\nRequirements:\n- 4+ years training and fine-tuning Large Language Models (LLMs) with PyTorch\n- Experience optimizing GPU kernels with CUDA and OpenAI Triton\n- Experience with distributed model training frameworks like Megatron-LM or DeepSpeed\n- Knowledge of quantization techniques (AWQ, GPTQ, bitsandbytes) and vLLM inference serving\n- MS or PhD in Computer Science, Machine Learning, or related quantitative field",
+  "resumeText": "Marcus Vance\nDigital Growth Marketer & SEO Specialist\nEmail: marcus.vance@example.com\n\nPROFESSIONAL SUMMARY\nCreative digital marketer with 6 years driving user acquisition, organic search ranking, and content strategy for e-commerce brands.\n\nCORE COMPETENCIES\nSEO Optimization, Google Analytics, SEMrush, Ahrefs, WordPress, Copywriting, Social Media Campaigns, A/B Testing, Basic HTML/CSS.\n\nEXPERIENCE\n\nLead Marketing Strategist | ViralReach Media | 2021 - Present\n- Managed $500K annual PPC ad spend across Google Ads and Meta campaigns.\n- Grew organic website traffic by 180% using programmatic SEO techniques and content hubs.\n- Utilized ChatGPT and Jasper AI for automated blog draft generation and keyword clustering.\n\nSEO Associate | BrightBrand Agency | 2018 - 2021\n- Conducted backlink audits and technical SEO crawl analysis using Screaming Frog.\n- Optimized meta tags, header hierarchy, and internal linking structures.\n\nEDUCATION\nBA in Communications & Marketing | State University | 2018",
+  "expected": {
+    "minScore": 0,
+    "maxScore": 25,
+    "expectedDominantStatus": "insufficient_evidence",
+    "requiredSkills": ["PyTorch", "CUDA", "Triton", "DeepSpeed", "vLLM"]
+  }
+}

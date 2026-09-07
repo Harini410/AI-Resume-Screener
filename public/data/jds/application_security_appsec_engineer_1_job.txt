@@ -1,0 +1,30 @@
+Application Security (AppSec) Engineer
+Okta Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Application Security (AppSec) Engineer to join our high-growth platform engineering organization at Okta. In this role, you will lead the technical design, development, and operation of scalable cybersecurity solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Perform architectural threat modeling and secure code reviews for upcoming product features
+• Implement and configure SAST, DAST, and dependency scanning tools in developer pipelines
+• Triage vulnerability findings, eliminate false positives, and partner with developers on remediation
+• Conduct regular internal penetration tests against web applications and APIs
+• Help foster a strong security-first culture across engineering teams
+
+Required Qualifications:
+• 3+ years of dedicated experience in Application Security (AppSec) or Penetration Testing
+• Deep knowledge of web application vulnerabilities (OWASP Top 10, CWE) and remediation strategies
+• Familiarity with reading and auditing code in modern languages (Python, JavaScript/TypeScript, Go, Java)
+• Hands-on experience using application security testing tools (Burp Suite, Snyk, Semgrep, SonarQube)
+• BS in Computer Science, Cybersecurity, or equivalent practical experience
+
+Preferred Qualifications:
+• Offensive Security Certified Professional (OSCP) or GWAPT certification
+• Active participation in bug bounty programs or CTFs
+• Experience with API security testing
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

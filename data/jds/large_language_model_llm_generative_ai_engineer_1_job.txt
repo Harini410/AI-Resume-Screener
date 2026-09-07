@@ -1,0 +1,30 @@
+Large Language Model (LLM) & Generative AI Engineer
+Stripe Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Large Language Model (LLM) & Generative AI Engineer to join our high-growth platform engineering organization at Stripe. In this role, you will lead the technical design, development, and operation of scalable ai/ml solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Design and deploy production Generative AI, RAG, and multi-agent systems
+• Fine-tune and evaluate open-source Large Language Models for domain-specific tasks
+• Implement vector search indexing, chunking strategies, and re-ranking algorithms
+• Deploy low-latency LLM inference endpoints utilizing frameworks like vLLM or TensorRT-LLM
+• Implement safety guardrails, prompt injection defenses, and factual grounding checks
+
+Required Qualifications:
+• 3+ years of experience in Machine Learning with at least 1.5+ years focused on LLMs and Generative AI
+• Strong expertise with Hugging Face transformers, PyTorch, and fine-tuning techniques (LoRA, PEFT)
+• Hands-on experience building production RAG pipelines with vector databases (Pinecone, Weaviate, Qdrant)
+• Deep understanding of attention mechanisms, tokenization, and context window optimization
+• MS or BS in Computer Science, Artificial Intelligence, or related quantitative field
+
+Preferred Qualifications:
+• Experience with vLLM or TensorRT-LLM high-throughput serving
+• Experience with agent frameworks (LangGraph, CrewAI, AutoGen)
+• Knowledge of synthetic data generation
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

@@ -1,0 +1,33 @@
+VALERIE THOMAS
+Real-time Streaming Data Engineer (Kafka & Flink)
+Email: valerie.thomas@example.com | Phone: (555) 150-1050 | LinkedIn: linkedin.com/in/valeriethomas
+
+PROFESSIONAL SUMMARY
+Results-driven Real-time Streaming Data Engineer (Kafka & Flink) with 8+ years of hands-on experience in Data architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Figma and Elastic. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: Apache Kafka, Apache Flink, Java, Scala, Kafka Streams, Docker, Kubernetes, Redis
+• Tools & Platforms: Confluent Cloud, Schema Registry, Prometheus, Git, Grafana
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Real-time Streaming Data Engineer (Kafka & Flink) | Figma | 2021 - Present
+• Designed and operated event streaming architectures on Apache Kafka handling 50,000 events/second
+• Implemented stateful stream processing applications using Apache Flink and Kafka Streams for fraud detection
+• Enforced schema evolution standards and data contracts using Confluent Schema Registry and Avro
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Real-time Streaming Data Engineer (Kafka & Flink) | Elastic | 2017 - 2021
+• Tuned Kafka broker configurations, partition replication, and consumer group rebalancing
+• Deployed Flink streaming jobs on Kubernetes with automated checkpointing and savepoint recovery
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+UC Berkeley | 2012 - 2016
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in Apache Kafka

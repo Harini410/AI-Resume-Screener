@@ -1,0 +1,30 @@
+Cloud Security Architect
+Dropbox Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Cloud Security Architect to join our high-growth platform engineering organization at Dropbox. In this role, you will lead the technical design, development, and operation of scalable cybersecurity solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Architect and enforce cloud security posture, network isolation, and encryption standards
+• Design and implement identity and access management (IAM) policies following least-privilege principles
+• Lead technical readiness initiatives for compliance certifications (SOC2, ISO 27001, HIPAA)
+• Manage automated vulnerability scanning and security posture tooling across cloud accounts
+• Collaborate with DevOps teams to embed security guardrails into Infrastructure as Code
+
+Required Qualifications:
+• 5+ years of experience in Cloud Security, Information Security, or Security Engineering
+• Deep expertise with AWS or Azure cloud security architectures, IAM, and KMS encryption
+• Demonstrated experience preparing systems for SOC2 Type II or ISO 27001 audits
+• Hands-on experience with cloud security posture management tools (Wiz, Prisma Cloud, Orca)
+• Bachelor's degree in Cybersecurity, Computer Science, or equivalent experience
+
+Preferred Qualifications:
+• CISSP, CCSP, or AWS Certified Security - Specialty certification
+• Experience with Kubernetes security (OPA Gatekeeper, Kyverno)
+• Python scripting for security automation
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

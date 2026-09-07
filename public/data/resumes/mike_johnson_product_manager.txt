@@ -1,0 +1,58 @@
+MIKE JOHNSON
+Product Manager
+Email: mike.johnson@email.com | Phone: (555) 456-7890 | LinkedIn: linkedin.com/in/mikejohnson
+
+SUMMARY
+Strategic Product Manager with 6+ years of experience driving product vision, roadmap planning, and cross-functional team leadership. Proven track record of launching successful digital products that increased revenue by 40%+ and user engagement by 50%+. Strong analytical skills with expertise in user research, data analysis, and agile methodologies.
+
+CORE COMPETENCIES
+• Product Strategy & Roadmap Planning
+• User Experience Design & Research
+• Data Analysis & Metrics Tracking
+• Agile & Scrum Methodologies
+• Cross-functional Team Leadership
+• Market Research & Competitive Analysis
+• A/B Testing & Experimentation
+• Stakeholder Management
+
+TECHNICAL SKILLS
+• Analytics: Google Analytics, Mixpanel, Amplitude, Tableau
+• Design Tools: Figma, Sketch, Adobe Creative Suite
+• Project Management: Jira, Asana, Trello, Confluence
+• Data Analysis: SQL, Excel, Python (basic)
+• Prototyping: InVision, Marvel, Balsamiq
+• CRM: Salesforce, HubSpot
+
+PROFESSIONAL EXPERIENCE
+
+Senior Product Manager | ProductTech Inc. | 2021 - Present
+• Led product strategy for B2B SaaS platform serving 10K+ enterprise customers
+• Increased user retention by 45% through data-driven feature prioritization
+• Managed product roadmap and coordinated releases across 3 engineering teams
+• Conducted user interviews and usability testing to inform product decisions
+
+Product Manager | GrowthCorp | 2019 - 2021
+• Launched mobile app feature that increased daily active users by 35%
+• Collaborated with design and engineering teams to deliver 12 major releases
+• Implemented analytics framework to track key product metrics
+• Led go-to-market strategy for 2 new product lines
+
+Associate Product Manager | StartupABC | 2018 - 2019
+• Supported senior PM in managing product backlog and sprint planning
+• Conducted competitive analysis and market research
+• Created user stories and acceptance criteria for development team
+• Assisted in product launch activities and user onboarding
+
+EDUCATION
+Master of Business Administration (MBA)
+Business School University | 2016 - 2018
+Concentration: Technology Management
+
+Bachelor of Science in Engineering
+Engineering University | 2012 - 2016
+
+ACHIEVEMENTS
+• Launched 5 successful product features with 90%+ user adoption
+• Increased product revenue by 40% through strategic feature development
+• Led cross-functional team of 15+ members across design, engineering, and marketing
+• Reduced customer churn by 25% through improved user experience

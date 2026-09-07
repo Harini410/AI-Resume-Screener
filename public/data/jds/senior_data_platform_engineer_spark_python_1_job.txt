@@ -1,0 +1,30 @@
+Senior Data Platform Engineer (Spark & Python)
+Okta Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Senior Data Platform Engineer (Spark & Python) to join our high-growth platform engineering organization at Okta. In this role, you will lead the technical design, development, and operation of scalable data solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Design and build scalable data ingestion and transformation pipelines using Spark and Python
+• Model and maintain enterprise analytical data warehouses in Snowflake or Databricks
+• Orchestrate complex DAG workflows and schedule batch processing using Apache Airflow
+• Implement data governance, data cataloging, and automated data quality testing
+• Partner with data scientists and business analysts to deliver high-integrity datasets
+
+Required Qualifications:
+• 4+ years of professional data engineering experience building production data pipelines
+• Expert-level proficiency in Python, PySpark, and advanced SQL query authoring
+• Demonstrated hands-on experience with modern cloud data warehouses (Snowflake, BigQuery, Redshift)
+• Experience with workflow orchestration tools such as Apache Airflow, Prefect, or Dagster
+• BS or MS in Computer Science, Data Engineering, Mathematics, or related field
+
+Preferred Qualifications:
+• Experience with dbt (data build tool)
+• Databricks Certified Data Engineer
+• Knowledge of streaming architectures using Kafka or Flink
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

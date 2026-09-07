@@ -1,0 +1,33 @@
+JULIAN SCOTT
+Security Operations Center (SOC) Analyst
+Email: julian.scott@example.com | Phone: (555) 150-1080 | LinkedIn: linkedin.com/in/julianscott
+
+PROFESSIONAL SUMMARY
+Results-driven Security Operations Center (SOC) Analyst with 8+ years of hands-on experience in Cybersecurity architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Databricks and Roblox. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: SIEM, Incident Response, Splunk, Threat Hunting, Network Security, Linux, Windows, Wireshark
+• Tools & Platforms: CrowdStrike, Sentinel, Elastic SIEM, Jira, VirusTotal
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Security Operations Center (SOC) Analyst | Databricks | 2021 - Present
+• Monitored and investigated security alerts across 10,000+ endpoints utilizing Splunk SIEM and CrowdStrike EDR
+• Conducted forensic artifact analysis on suspicious malware samples, phishing emails, and network PCAPs
+• Executed incident containment procedures during active ransomware simulations and unauthorized access attempts
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Security Operations Center (SOC) Analyst | Roblox | 2017 - 2021
+• Authored custom SIEM detection rules mapped to MITRE ATT&CK techniques reducing alert noise by 35%
+• Maintained incident response playbooks and escalated critical security incidents to Tier-3 engineering
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+UIUC | 2012 - 2016
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in SIEM

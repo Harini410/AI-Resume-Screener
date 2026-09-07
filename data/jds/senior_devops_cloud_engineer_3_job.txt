@@ -1,0 +1,30 @@
+Staff / Lead Senior DevOps & Cloud Engineer
+Snowflake Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Staff / Lead Senior DevOps & Cloud Engineer to join our high-growth platform engineering organization at Snowflake. In this role, you will lead the technical design, development, and operation of scalable devops solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Design, provision, and maintain secure cloud infrastructure using Terraform on AWS
+• Operate production Kubernetes container orchestration platforms with high availability
+• Build and optimize automated CI/CD pipelines for microservices deployment
+• Establish site observability, proactive alerting, and system health dashboards
+• Collaborate with engineering teams to enhance developer productivity and deployment reliability
+
+Required Qualifications:
+• 4+ years of professional experience in DevOps, Cloud Engineering, or Infrastructure
+• Demonstrated production expertise with AWS services (EKS, EC2, RDS, VPC, IAM, S3)
+• Strong proficiency with Infrastructure as Code using Terraform modules
+• Hands-on experience deploying and operating production Kubernetes clusters
+• Bachelor's degree in Computer Science or equivalent field
+
+Preferred Qualifications:
+• AWS Certified Solutions Architect or DevOps Engineer Professional
+• Experience with GitOps workflows using ArgoCD or Flux
+• Certified Kubernetes Administrator (CKA)
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

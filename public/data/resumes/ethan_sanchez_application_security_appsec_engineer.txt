@@ -1,0 +1,33 @@
+ETHAN SANCHEZ
+Application Security (AppSec) Engineer
+Email: ethan.sanchez@example.com | Phone: (555) 100-1076 | LinkedIn: linkedin.com/in/ethansanchez
+
+PROFESSIONAL SUMMARY
+Results-driven Application Security (AppSec) Engineer with 10+ years of hands-on experience in Cybersecurity architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Affirm and Instacart. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: AppSec, OWASP Top 10, SAST, DAST, Python, JavaScript, Vulnerability Management, Code Review
+• Tools & Platforms: Snyk, SonarQube, Burp Suite, Git, GitHub Advanced Security
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Application Security (AppSec) Engineer | Affirm | 2021 - Present
+• Conducted manual secure code reviews across Python, JavaScript, and Go codebases mitigating OWASP Top 10 risks
+• Integrated Static Application Security Testing (SAST) and Software Composition Analysis (SCA) into CI/CD workflows
+• Performed dynamic web application security testing (DAST) utilizing Burp Suite Professional
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Application Security (AppSec) Engineer | Instacart | 2015 - 2021
+• Led internal developer security training sessions on secure coding practices and threat modeling
+• Managed company bug bounty program triaging and validating external researcher vulnerability reports
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+UCLA | 2010 - 2014
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in AppSec

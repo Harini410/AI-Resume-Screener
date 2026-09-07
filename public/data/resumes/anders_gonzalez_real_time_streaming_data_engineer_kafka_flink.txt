@@ -1,0 +1,33 @@
+ANDERS GONZALEZ
+Real-time Streaming Data Engineer (Kafka & Flink)
+Email: anders.gonzalez@example.com | Phone: (555) 100-1049 | LinkedIn: linkedin.com/in/andersgonzalez
+
+PROFESSIONAL SUMMARY
+Results-driven Real-time Streaming Data Engineer (Kafka & Flink) with 10+ years of hands-on experience in Data architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Snowflake and Coinbase. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: Apache Kafka, Apache Flink, Java, Scala, Kafka Streams, Docker, Kubernetes, Redis
+• Tools & Platforms: Confluent Cloud, Schema Registry, Prometheus, Git, Grafana
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Real-time Streaming Data Engineer (Kafka & Flink) | Snowflake | 2021 - Present
+• Designed and operated event streaming architectures on Apache Kafka handling 50,000 events/second
+• Implemented stateful stream processing applications using Apache Flink and Kafka Streams for fraud detection
+• Enforced schema evolution standards and data contracts using Confluent Schema Registry and Avro
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Real-time Streaming Data Engineer (Kafka & Flink) | Coinbase | 2015 - 2021
+• Tuned Kafka broker configurations, partition replication, and consumer group rebalancing
+• Deployed Flink streaming jobs on Kubernetes with automated checkpointing and savepoint recovery
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+MIT | 2010 - 2014
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in Apache Kafka

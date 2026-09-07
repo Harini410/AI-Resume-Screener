@@ -1,0 +1,33 @@
+LUCAS KING
+Machine Learning Engineer (PyTorch & Python)
+Email: lucas.king@example.com | Phone: (555) 100-1058 | LinkedIn: linkedin.com/in/lucasking
+
+PROFESSIONAL SUMMARY
+Results-driven Machine Learning Engineer (PyTorch & Python) with 10+ years of hands-on experience in AI/ML architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Elastic and HubSpot. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: Python, PyTorch, Scikit-learn, Machine Learning, Deep Learning, Docker, SQL, MLflow
+• Tools & Platforms: Jupyter, Weights & Biases, AWS SageMaker, Git, DVC
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Machine Learning Engineer (PyTorch & Python) | Elastic | 2021 - Present
+• Trained and evaluated deep neural network models in PyTorch for predictive customer behavior modeling
+• Engineered feature preprocessing pipelines using Scikit-learn and Pandas handling 10M+ tabular records
+• Tracked model experiment runs and versioned hyperparameters using MLflow and Weights & Biases
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Machine Learning Engineer (PyTorch & Python) | HubSpot | 2015 - 2021
+• Containerized ML inference services with Docker and deployed scalable model endpoints on AWS SageMaker
+• Conducted offline validation and production A/B testing demonstrating a 15% improvement over baseline heuristics
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Harvard University | 2010 - 2014
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in Python

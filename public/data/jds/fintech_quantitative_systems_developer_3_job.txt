@@ -1,0 +1,30 @@
+Staff / Lead FinTech Quantitative Systems Developer
+Elastic Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Staff / Lead FinTech Quantitative Systems Developer to join our high-growth platform engineering organization at Elastic. In this role, you will lead the technical design, development, and operation of scalable fintech solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Design and build ultra-low-latency algorithmic trading engines and market data handlers in Modern C++
+• Develop research and backtesting infrastructure in Python for quantitative trading strategies
+• Optimize hardware-software interactions for maximum throughput and deterministic sub-microsecond latency
+• Collaborate with quantitative researchers to implement production mathematical models
+• Monitor trading system stability, risk limits, and exchange connectivity in real-time
+
+Required Qualifications:
+• 4+ years of professional software development experience in Modern C++ (C++17/20)
+• Strong understanding of low-latency systems, lock-free data structures, and cache architecture
+• Proficiency in Python for data analysis, scripting, and strategy simulation
+• Experience with financial protocols (FIX, market data feeds) or exchange trading systems
+• Degree in Computer Science, Mathematics, Physics, or Financial Engineering
+
+Preferred Qualifications:
+• Experience with kernel bypass networking (Solarflare OpenOnload, DPDK)
+• Background in algorithmic trading or market making
+• Master's degree in quantitative discipline
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

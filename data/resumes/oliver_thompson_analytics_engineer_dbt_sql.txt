@@ -1,0 +1,33 @@
+OLIVER THOMPSON
+Analytics Engineer (dbt & SQL)
+Email: oliver.thompson@example.com | Phone: (555) 150-1053 | LinkedIn: linkedin.com/in/oliverthompson
+
+PROFESSIONAL SUMMARY
+Results-driven Analytics Engineer (dbt & SQL) with 8+ years of hands-on experience in Data architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Shopify and PagerDuty. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: dbt, SQL, Snowflake, PostgreSQL, Python, Data Modeling, Git, Tableau
+• Tools & Platforms: Fivetran, Looker, Airbyte, GitHub, Hex
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Analytics Engineer (dbt & SQL) | Shopify | 2021 - Present
+• Developed robust dbt data models transforming raw staging data into production Kimball star schemas
+• Authored clean, performant SQL queries and macros adhering to software engineering best practices
+• Configured automated dbt testing and documentation generating comprehensive data lineage graphs
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Analytics Engineer (dbt & SQL) | PagerDuty | 2017 - 2021
+• Created executive KPI reporting dashboards in Tableau and Looker tracking recurring revenue and churn
+• Partnered with business teams to translate ambiguous business requirements into verifiable data models
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Carnegie Mellon University | 2012 - 2016
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in dbt

@@ -1,0 +1,33 @@
+DAVID LEE
+Senior DevOps & Cloud Engineer
+Email: david.lee@example.com | Phone: (555) 100-1031 | LinkedIn: linkedin.com/in/davidlee
+
+PROFESSIONAL SUMMARY
+Results-driven Senior DevOps & Cloud Engineer with 10+ years of hands-on experience in DevOps architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Affirm and Instacart. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: AWS, Terraform, Kubernetes, Docker, CI/CD, Linux, Python, Bash
+• Tools & Platforms: GitHub Actions, Helm, ArgoCD, Prometheus, Grafana
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Senior DevOps & Cloud Engineer | Affirm | 2021 - Present
+• Architected multi-region AWS cloud infrastructure using Terraform Infrastructure as Code (IaC)
+• Managed production Kubernetes clusters on AWS EKS with automated zero-downtime blue/green rollouts
+• Built automated GitHub Actions CI/CD pipelines reducing deployment times from 45 minutes to 7 minutes
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Senior DevOps & Cloud Engineer | Instacart | 2015 - 2021
+• Implemented comprehensive cluster monitoring and alerting with Prometheus, Grafana, and Alertmanager
+• Enforced security compliance and least-privilege IAM roles across multi-account AWS Organizations
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+UCLA | 2010 - 2014
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in AWS

@@ -1,0 +1,30 @@
+QA Automation Engineer (Playwright & TypeScript)
+GitLab Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional QA Automation Engineer (Playwright & TypeScript) to join our high-growth platform engineering organization at GitLab. In this role, you will lead the technical design, development, and operation of scalable qa solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Design, implement, and maintain automated UI and API test frameworks using Playwright and TypeScript
+• Integrate automated test execution into CI/CD pipelines to block regressions prior to production release
+• Work alongside developers to ensure high testability and code coverage across new features
+• Diagnose, report, and verify bug fixes in collaboration with software engineers
+• Establish test automation best practices and maintain test data fixtures
+
+Required Qualifications:
+• 3+ years of software quality engineering experience with a focus on test automation
+• Demonstrated proficiency writing automated tests in Playwright or Cypress using TypeScript/JavaScript
+• Experience with API testing (REST, Postman, automated HTTP assertions)
+• Hands-on experience integrating test suites with CI/CD tools (GitHub Actions, GitLab, Jenkins)
+• Degree in Computer Science, Software Engineering, or equivalent experience
+
+Preferred Qualifications:
+• Experience with performance testing tools like k6
+• Familiarity with mobile automation (Appium)
+• Experience with visual regression testing
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

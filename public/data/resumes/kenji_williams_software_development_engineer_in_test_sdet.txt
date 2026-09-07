@@ -1,0 +1,33 @@
+KENJI WILLIAMS
+Software Development Engineer in Test (SDET)
+Email: kenji.williams@example.com | Phone: (555) 200-1087 | LinkedIn: linkedin.com/in/kenjiwilliams
+
+PROFESSIONAL SUMMARY
+Results-driven Software Development Engineer in Test (SDET) with 6+ years of hands-on experience in QA architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Roblox and Figma. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: Java, Python, TestNG, Selenium, Docker, Microservices, REST APIs, SQL
+• Tools & Platforms: Jenkins, Postman, Git, Kubernetes, Jira
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Development Engineer in Test (SDET) | Roblox | 2021 - Present
+• Developed robust backend test automation harnesses in Java and Python for distributed microservices
+• Constructed mock services and test doubles to simulate third-party banking APIs in staging environments
+• Engineered database validation test scripts verifying transactional ACID compliance across PostgreSQL clusters
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Software Development Engineer in Test (SDET) | Figma | 2019 - 2021
+• Integrated continuous automated smoke and regression tests into Jenkins pipelines
+• Championed shift-left quality methodologies mentoring 15+ software developers in unit testing techniques
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Stanford University | 2014 - 2018
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in Java

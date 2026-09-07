@@ -1,0 +1,33 @@
+SIDDHARTH MOORE
+Senior Product & UX Designer
+Email: siddharth.moore@example.com | Phone: (555) 100-1094 | LinkedIn: linkedin.com/in/siddharthmoore
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Product & UX Designer with 10+ years of hands-on experience in Design architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Snowflake and Coinbase. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: UI/UX Design, Figma, User Research, Wireframing, Prototyping, Design Systems, Usability Testing
+• Tools & Platforms: Figma, Miro, Maze, Zeroheight, Adobe Creative Suite
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Senior Product & UX Designer | Snowflake | 2021 - Present
+• Led end-to-end product design for flagship enterprise web application from conceptual discovery to production handover
+• Architected scalable, tokenized design system in Figma used by 30+ designers and frontend engineers
+• Conducted 40+ user research sessions and usability tests utilizing Maze to validate interface prototypes
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Senior Product & UX Designer | Coinbase | 2015 - 2021
+• Created high-fidelity interactive prototypes simulating complex data analytics and filtering workflows
+• Partnered closely with frontend engineers to ensure design fidelity and WCAG 2.1 AA accessibility compliance
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+MIT | 2010 - 2014
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in UI/UX Design

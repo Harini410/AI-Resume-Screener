@@ -1,0 +1,30 @@
+Staff / Lead Data Scientist (Statistics & Predictive Modeling)
+Atlassian Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Staff / Lead Data Scientist (Statistics & Predictive Modeling) to join our high-growth platform engineering organization at Atlassian. In this role, you will lead the technical design, development, and operation of scalable data science solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Translate complex business challenges into rigorous statistical and machine learning models
+• Design and analyze randomized controlled experiments (A/B testing) with hypothesis validation
+• Query, clean, and analyze large-scale datasets using SQL, Python, or R
+• Communicate data-driven recommendations to non-technical business leaders and executives
+• Collaborate with engineering teams to productionize prototype predictive algorithms
+
+Required Qualifications:
+• 3+ years of experience in Data Science, Statistical Modeling, or Quantitative Analytics
+• Strong statistical foundation in hypothesis testing, regression analysis, and experimental design
+• Advanced proficiency in SQL and Python (Pandas, NumPy, Scikit-learn, Statsmodels) or R
+• Experience visualizing and presenting quantitative insights using Tableau, Power BI, or Matplotlib
+• Master's or Bachelor's degree in Statistics, Mathematics, Economics, Data Science, or STEM field
+
+Preferred Qualifications:
+• Experience in subscription SaaS or e-commerce metrics
+• Experience with causal inference techniques
+• Familiarity with cloud data warehouses (Snowflake, BigQuery)
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

@@ -1,0 +1,33 @@
+AMELIA WILSON
+Backend Engineer (Go / Distributed Systems)
+Email: amelia.wilson@example.com | Phone: (555) 200-1006 | LinkedIn: linkedin.com/in/ameliawilson
+
+PROFESSIONAL SUMMARY
+Results-driven Backend Engineer (Go / Distributed Systems) with 6+ years of hands-on experience in Backend architecture, design, and implementation. Proven track record of delivering robust, high-availability software solutions at Airbnb and Cloudflare. Strong collaborative engineering mindset with emphasis on clean code, automated testing, and scalable distributed systems.
+
+TECHNICAL SKILLS
+• Core Technologies: Go, Golang, PostgreSQL, gRPC, Apache Kafka, Docker, Kubernetes, Redis
+• Tools & Platforms: Linux, Git, Prometheus, Grafana, AWS EKS
+• Methodologies: Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD), Code Reviews
+
+PROFESSIONAL EXPERIENCE
+
+Senior Backend Engineer (Go / Distributed Systems) | Airbnb | 2021 - Present
+• Designed and developed high-throughput microservices in Go processing over 30,000 requests per second
+• Implemented event-driven streaming pipelines using Apache Kafka for real-time transaction processing
+• Tuned PostgreSQL connection pools and query execution plans reducing average query latency by 35%
+• Mentored junior and mid-level engineers, conducted technical interviews, and participated in architecture review boards.
+
+Backend Engineer (Go / Distributed Systems) | Cloudflare | 2019 - 2021
+• Engineered low-latency gRPC service interfaces with Protocol Buffers for inter-service communication
+• Deployed containerized Go services onto Kubernetes clusters with automated horizontal pod autoscaling
+• Improved automated test coverage and streamlined deployment workflows reducing release cycles.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Carnegie Mellon University | 2014 - 2018
+GPA: 3.8 / 4.0
+
+PROJECTS & CERTIFICATIONS
+• Enterprise Architecture Project: Spearheaded migration of legacy core systems to modern cloud platform
+• Open Source Contributor: Active contributor to relevant open-source libraries in Go

@@ -1,0 +1,30 @@
+Senior Android Mobile Engineer (Kotlin)
+ServiceNow Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Senior Android Mobile Engineer (Kotlin) to join our high-growth platform engineering organization at ServiceNow. In this role, you will lead the technical design, development, and operation of scalable mobile solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Develop consumer-facing Android applications using Kotlin and Jetpack Compose
+• Implement clean architectural patterns adhering to modern Android development standards
+• Work closely with backend teams to integrate RESTful web services and GraphQL
+• Monitor application crash metrics via Firebase Crashlytics and resolve regressions
+• Stay current with Android SDK updates and Google Play store compliance guidelines
+
+Required Qualifications:
+• 3+ years of Android application development experience with Kotlin
+• Demonstrated expertise with modern Jetpack libraries (Compose, Room, Navigation, ViewModel)
+• Deep understanding of Kotlin Coroutines, Flows, and reactive programming
+• Experience with dependency injection frameworks such as Hilt or Koin
+• BS in Computer Science or relevant technical field
+
+Preferred Qualifications:
+• Experience with multi-module Android codebases
+• Knowledge of NDK or C++ integration
+• Published apps on Google Play Store
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications

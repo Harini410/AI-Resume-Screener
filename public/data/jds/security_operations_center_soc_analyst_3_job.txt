@@ -1,0 +1,30 @@
+Staff / Lead Security Operations Center (SOC) Analyst
+Affirm Cloud Innovations Group
+Location: San Francisco, CA (Hybrid / Remote Option)
+
+Position Overview:
+We are seeking an exceptional Staff / Lead Security Operations Center (SOC) Analyst to join our high-growth platform engineering organization at Affirm. In this role, you will lead the technical design, development, and operation of scalable cybersecurity solutions that power millions of user interactions every day.
+
+Key Responsibilities:
+• Monitor, triage, and investigate security alerts across enterprise SIEM and EDR platforms
+• Perform initial incident response, host isolation, and digital forensics during security events
+• Develop detection rules and correlation searches based on threat intelligence and MITRE ATT&CK
+• Analyze malicious artifacts, network packet captures, and email headers
+• Document incident timelines and write comprehensive post-incident reports
+
+Required Qualifications:
+• 2+ years of experience working in a Security Operations Center (SOC) or Incident Response team
+• Familiarity with enterprise SIEM platforms (Splunk, Microsoft Sentinel, Elastic)
+• Understanding of common attack vectors, network protocols (TCP/IP, DNS, HTTP), and OS internals
+• Experience with endpoint detection and response (EDR) platforms like CrowdStrike or SentinelOne
+• Bachelor's degree in Cybersecurity, Information Technology, or relevant certifications
+
+Preferred Qualifications:
+• CompTIA Security+, CySA+, or GIAC GCIH certification
+• Experience with SOAR automation tools
+• Python or PowerShell scripting for alert enrichment
+
+Benefits & Culture:
+• Competitive base salary with equity options and comprehensive health benefits
+• 401(k) retirement matching and flexible paid time off (PTO)
+• Continuous learning stipend for conferences, books, and certifications
